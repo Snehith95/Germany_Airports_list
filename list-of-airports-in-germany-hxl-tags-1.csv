@@ -1,0 +1,948 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,iata_code,score
+2212,EDDF,large_airport,Frankfurt am Main Airport,50.033333,8.570556,364,EU,DE,DE-HE,Frankfurt am Main,1,FRA,1144675
+2218,EDDM,large_airport,Munich Airport,48.353802,11.7861,1487,EU,DE,DE-BY,Munich,1,MUC,1026675
+2223,EDDT,large_airport,Berlin-Tegel Airport,52.5597,13.2877,122,EU,DE,DE-BE,Berlin,1,TXL,1012675
+2217,EDDL,large_airport,Düsseldorf Airport,51.289501,6.76678,147,EU,DE,DE-NW,Düsseldorf,1,DUS,1017675
+2209,EDDB,large_airport,Berlin-Schönefeld Airport,52.380001,13.5225,157,EU,DE,DE-BR,Berlin,1,SXF,1275
+2216,EDDK,large_airport,Cologne Bonn Airport,50.86589813,7.142739773,302,EU,DE,DE-NW,Cologne,1,CGN,51475
+2214,EDDH,large_airport,Hamburg Airport,53.63040161,9.988229752,53,EU,DE,DE-HH,Hamburg,1,HAM,1012575
+2222,EDDS,large_airport,Stuttgart Airport,48.68989944,9.221960068,1276,EU,DE,DE-BW,Stuttgart,1,STR,51275
+2227,EDFH,medium_airport,Frankfurt-Hahn Airport,49.9487,7.26389,1649,EU,DE,DE-RP,Frankfurt am Main,1,HHN,1050
+2219,EDDN,large_airport,Nuremberg Airport,49.498699,11.078056,1046,EU,DE,DE-BY,Nuremberg,1,NUE,1275
+2224,EDDV,large_airport,Hannover Airport,52.46110153,9.685079575,183,EU,DE,DE-NI,Hannover,1,HAJ,1675
+2225,EDDW,large_airport,Bremen Airport,53.04750061,8.786669731,14,EU,DE,DE-HB,Bremen,1,BRE,1275
+2256,EDNY,medium_airport,Friedrichshafen Airport,47.67129898,9.511489868,1367,EU,DE,DE-BW,Friedrichshafen,1,FDH,1050
+2246,EDLV,medium_airport,Weeze Airport,51.60240173,6.142169952,106,EU,DE,DE-NW,Weeze,1,NRN,1050
+2220,EDDP,large_airport,Leipzig/Halle Airport,51.423889,12.236389,465,EU,DE,DE-SN,Leipzig,1,LEJ,1275
+2215,EDDI,closed,Berlin-Tempelhof International Airport,52.47299957,13.40390015,167,EU,DE,DE-BE,Berlin,0,THF,899
+2210,EDDC,large_airport,Dresden Airport,51.13280106,13.76720047,755,EU,DE,DE-SN,Dresden,1,DRS,1275
+2247,EDLW,large_airport,Dortmund Airport,51.5182991,7.612239838,425,EU,DE,DE-NW,Dortmund,1,DTM,1050
+2237,EDJA,medium_airport,Memmingen Allgau Airport,47.98880005,10.23950005,2077,EU,DE,DE-BY,Memmingen,1,FMM,250
+2213,EDDG,large_airport,Münster Osnabrück Airport,52.13460159,7.684830189,160,EU,DE,DE-NW,Münster,1,FMO,1275
+2236,EDHL,medium_airport,Lübeck Blankensee Airport,53.80540085,10.71920013,53,EU,DE,DE-SH,Lübeck,1,LBC,1050
+2270,EDSB,large_airport,Karlsruhe Baden-Baden Airport,48.77939987,8.080499649,408,EU,DE,DE-BW,Baden-Baden,1,FKB,1050
+2248,EDMA,medium_airport,Augsburg Airport,48.425278,10.931667,1516,EU,DE,DE-BY,Augsburg,0,AGB,375
+2221,EDDR,medium_airport,Saarbrücken Airport,49.21459961,7.109509945,1058,EU,DE,DE-SL,Saarbrücken,1,SCN,1050
+2243,EDLN,medium_airport,Mönchengladbach Airport,51.230278,6.504444,125,EU,DE,DE-NW,Mönchengladbach,0,MGL,575
+2718,ETAR,large_airport,Ramstein Air Base,49.43690109,7.600279808,776,EU,DE,DE-RP,Ramstein,0,RMS,975
+2266,EDRK,small_airport,Koblenz-Winningen Airport,50.325558,7.528611,640,EU,DE,DE-RP,Koblenz,0,,50
+2255,EDNL,small_airport,Leutkirch-Unterzeil Airport,47.85889053,10.01416683,2100,EU,DE,DE-BW,Leutkirch,0,,50
+2285,EDVK,medium_airport,Kassel-Calden Airport,51.417273,9.384967,820,EU,DE,DE-HE,Kassel,1,KSF,275
+2244,EDLP,medium_airport,Paderborn Lippstadt Airport,51.61410141,8.616319656,699,EU,DE,DE-NW,Paderborn,1,PAD,1050
+2228,EDFM,medium_airport,Mannheim-City Airport,49.473057,8.514167,308,EU,DE,DE-BW,Mannheim,1,MHG,875
+2226,EDFE,medium_airport,Frankfurt-Egelsbach Airport,49.959999,8.645833,384,EU,DE,DE-HE,Frankfurt am Main,0,QEF,250
+2268,EDRY,small_airport,Speyer Airport,49.304722,8.451389,312,EU,DE,DE-RP,Speyer,0,,50
+2277,EDTM,small_airport,Mengen-Hohentengen Airport,48.05389023,9.372777939,1818,EU,DE,DE-BW,Mengen,0,,50
+2211,EDDE,medium_airport,Erfurt Airport,50.97980118,10.95810032,1036,EU,DE,DE-TH,Erfurt,1,ERF,1050
+2284,EDVE,medium_airport,Braunschweig-Wolfsburg Airport,52.319199,10.5561,295,EU,DE,DE-NI,Braunschweig,1,BWE,900
+2273,EDTD,medium_airport,Donaueschingen-Villingen Airport,47.97333145,8.522221565,2231,EU,DE,DE-BW,Donaueschingen,0,ZQL,250
+28490,EDKA,small_airport,Aachen-Merzbrück Airport,50.82305527,6.186388969,623,EU,DE,DE-NW,Aachen,0,AAH,50
+2238,EDKV,small_airport,Flugplatz Dahlemer Binz,50.40555573,6.528889179,1896,EU,DE,DE-RP,Dahlheim,0,,50
+2195,EDAZ,small_airport,Schönhagen Airport,52.203609,13.156389,152,EU,DE,DE-BR,Schönhagen,0,QXH,50
+2296,EDXW,medium_airport,Westerland Sylt Airport,54.91320038,8.340470314,51,EU,DE,DE-SH,Westerland,1,GWT,975
+2261,EDQD,medium_airport,Bayreuth Airport,49.985001,11.64,1601,EU,DE,DE-BY,Bayreuth,0,BYU,500
+2291,EDWR,small_airport,Borkum Airport,53.59639,6.709167,3,EU,DE,DE-NI,Borkum,1,BMK,450
+2265,EDRB,small_airport,Bitburg Airport,49.945278,6.565,1220,EU,DE,DE-RP,Bitburg,0,BBJ,50
+28532,EDKB,small_airport,Bonn-Hangelar Airport,50.76889038,7.163332939,197,EU,DE,DE-NW,Bonn,0,BNJ,50
+2274,EDTF,small_airport,Freiburg i. Br. Airport,48.02277756,7.832499981,801,EU,DE,DE-BW,Freiburg im Breisgau,0,,50
+29078,EDNX,small_airport,Oberschleißheim Airfield,48.239445,11.561389,1594,EU,DE,DE-BY,Oberschleißheim,0,,50
+28708,EDFR,small_airport,Rothenburg o. d. T. Airport,49.38833237,10.21805573,1309,EU,DE,DE-BY,Rothenburg ob der Tauber,0,,50
+2245,EDLS,small_airport,Stadtlohn-Vreden Airport,51.99583435,6.840556145,157,EU,DE,DE-NW,Stadtlohn,0,,50
+2231,EDFZ,medium_airport,Mainz-Finthen Airport,49.967499,8.147222,525,EU,DE,DE-RP,Mainz,0,,250
+28509,EDRF,small_airport,Bad Dürkheim Airport,49.47305679,8.196389198,351,EU,DE,DE-RP,Bad Dürkheim,0,,50
+28614,EDWJ,small_airport,Juist Airport,53.68111038,7.055832863,7,EU,DE,DE-NI,Juist,0,JUI,50
+28619,EDMK,small_airport,Kempten-Durach Airport,47.69194412,10.33805561,2339,EU,DE,DE-BY,Kempten,0,,50
+2289,EDWF,small_airport,Leer-Papenburg Airport,53.27194214,7.44166708,3,EU,DE,DE-NI,Leer,0,,50
+2292,EDWY,small_airport,Norderney Airport,53.70694351,7.230000019,7,EU,DE,DE-NI,Norderney,0,NRD,50
+2253,EDMS,small_airport,Straubing Airport,48.90083313,12.51666737,1047,EU,DE,DE-BY,Straubing,0,RBM,50
+2235,EDHK,medium_airport,Kiel-Holtenau Airport,54.37944412,10.14527798,102,EU,DE,DE-SH,Kiel,1,KEL,1050
+2263,EDQM,medium_airport,Hof-Plauen Airport,50.28861237,11.85638905,1959,EU,DE,DE-BY,Hof,1,HOQ,1000
+2717,ETAD,medium_airport,Spangdahlem Air Base,49.97269821,6.692500114,1197,EU,DE,DE-RP,Trier,0,SPM,850
+2269,EDRZ,small_airport,Zweibrücken Airport,49.2094,7.40056,1132,EU,DE,DE-RP,Zweibrücken,0,ZQW,150
+2241,EDLE,small_airport,Essen Mulheim Airport,51.40230179,6.937329769,424,EU,DE,DE-NW,,0,ESS,50
+28502,EDFC,small_airport,Aschaffenburg Airport,49.93888855,9.06388855,410,EU,DE,DE-BY,Aschaffenburg,0,,50
+2262,EDQE,small_airport,Burg Feuerstein Airport,49.79416656,11.13361073,1673,EU,DE,DE-BY,Ebermannstadt,0,URD,50
+28577,EDLF,small_airport,Grefrath-Niershorst Airport,51.33388901,6.359444141,105,EU,DE,DE-NW,Grefrath,0,,50
+28623,EDTZ,small_airport,Konstanz Airport,47.6819458,9.13722229,1302,EU,DE,DE-BW,Konstanz,0,,50
+2254,EDMV,small_airport,Vilshofen Airport,48.63499832,13.19555569,991,EU,DE,DE-BY,Vilshofen,0,,50
+2187,EDAH,medium_airport,Heringsdorf Airport,53.87870026,14.15229988,93,EU,DE,DE-MV,Heringsdorf,1,HDF,900
+2233,EDGS,medium_airport,Siegerland Airport,50.70769882,8.082969666,1966,EU,DE,DE-NW,,0,SGE,375
+2753,ETSI,medium_airport,Ingolstadt Manching Airport,48.71569824,11.5340004,1202,EU,DE,DE-BY,Manching,0,IGS,375
+30591,XMUC,closed,Flughafen München-Riem,48.13779831,11.69029999,,EU,DE,DE-BY,Munich,0,MUC,301
+2276,EDTL,medium_airport,Lahr Airport,48.36930084,7.827720165,511,EU,DE,DE-BW,,0,LHA,300
+2252,EDMO,medium_airport,Oberpfaffenhofen Airport,48.081402,11.2831,1947,EU,DE,DE-BY,,0,OBF,300
+2260,EDPA,small_airport,Aalen-Heidenheim/Elchingen Airport,48.77777863,10.26472187,1916,EU,DE,DE-BW,Aalen,0,,50
+2249,EDMB,small_airport,Biberach a.d. Riß Airport,48.11111069,9.762778282,1903,EU,DE,DE-BW,Biberach an der Riß,0,,50
+28553,EDLD,small_airport,Dinslaken/Schwarze Heide Airport,51.616112,6.865278,217,EU,DE,DE-NW,Bottrop-Kirchhellen,0,,50
+28536,EDLB,small_airport,Borkenberge Airport,51.77999878,7.288055897,157,EU,DE,DE-NW,Dülmen,0,,50
+2293,EDXF,small_airport,Flensburg-Schäferhaus Airport,54.7733345,9.378889084,131,EU,DE,DE-SH,Flensburg,0,FLF,50
+28627,EDQK,small_airport,Kulmbach Airport,50.13499832,11.45972157,1660,EU,DE,DE-BY,Kulmbach,0,,50
+28652,EDLT,small_airport,Münster-Telgte Airport,51.94444275,7.773889065,177,EU,DE,DE-NW,Münster,0,,50
+28686,EDLR,small_airport,Paderborn-Haxterberg Airport,51.6883316,8.775278091,801,EU,DE,DE-NW,Paderborn,0,,50
+28615,EDLC,small_airport,Kamp-Lintfort Airport,51.52916718,6.536110878,85,EU,DE,DE-NW,Rheinberg,0,,50
+28737,EDMT,small_airport,Tannheim Airport,48.00999832,10.09861088,1903,EU,DE,DE-BW,Tannheim,0,,50
+28742,EDHE,small_airport,Uetersen/Heist Airport,53.64638901,9.704167366,23,EU,DE,DE-SH,Uetersen,0,,50
+28751,EDWG,small_airport,Wangerooge Airport,53.78277969,7.913888931,7,EU,DE,DE-NI,Wangerooge,0,AGE,50
+2230,EDFV,small_airport,Worms Airport,49.606945,8.368333,295,EU,DE,DE-RP,Worms,0,,50
+2184,EDAC,medium_airport,Altenburg-Nobitz Airport,50.981945,12.506389,640,EU,DE,DE-TH,Altenburg,0,AOC,1050
+2234,EDHI,medium_airport,Hamburg-Finkenwerder Airport,53.53527832,9.83555603,23,EU,DE,DE-HH,Hamburg,0,XFW,575
+2287,EDWB,closed,Bremerhaven Airport,53.506943,8.572778,10,EU,DE,DE-HB,Bremerhaven,1,BRV,450
+28590,EDXB,small_airport,Heide-Büsum Airport,54.15333176,8.901666641,7,EU,DE,DE-SH,Büsum,1,HEI,450
+2747,ETOU,medium_airport,Wiesbaden Army Airfield,50.04980087,8.325400352,461,EU,DE,DE-HE,Wiesbaden,0,WIE,400
+2232,EDGE,medium_airport,Eisenach-Kindel Airport,50.991604,10.47973,1112,EU,DE,DE-TH,Eisenach,0,EIB,250
+2278,EDTY,medium_airport,Adolf Würth Airport,49.11833191,9.783888817,1299,EU,DE,DE-BW,Schwäbisch Hall,0,,250
+2250,EDME,small_airport,Eggenfelden Airport,48.39611053,12.72361088,1342,EU,DE,DE-BY,Eggenfelden,0,,50
+2286,EDVM,small_airport,Hildesheim Airport,52.18138885,9.946389198,292,EU,DE,DE-NI,Hildesheim,0,,50
+2294,EDXJ,small_airport,Husum-Schwesing Airport,54.50999832,9.138333321,62,EU,DE,DE-SH,Husum,0,QHU,50
+28608,EDRG,small_airport,Idar-Oberstein/Göttschied Airport,49.73222351,7.336111069,1575,EU,DE,DE-RP,Idar-Oberstein,0,,50
+2197,EDBJ,small_airport,Jena-Schöngleina Airport,50.91527939,11.71444416,1247,EU,DE,DE-TH,Jena,0,,50
+28546,EDBC,small_airport,Cochstedt Airport,51.85639954,11.42029953,594,EU,DE,DE-ST,Magdeburg,0,CSO,50
+28644,EDLM,small_airport,Marl-Loemühle Airport,51.647202,7.16333,240,EU,DE,DE-NW,Marl,0,,50
+28649,EDGM,small_airport,Mosbach-Lohrbach Airport,49.39888763,9.123888969,1818,EU,DE,DE-BW,Mosbach,0,,50
+28650,EDMY,small_airport,Mühldorf Airport,48.27944565,12.50055599,1325,EU,DE,DE-BY,Mühldorf am Inn,0,,50
+28525,EDOI,small_airport,Bienenfarm Airport,52.661667,12.745833,120,EU,DE,DE-BR,Nauen,0,,50
+2240,EDLA,small_airport,Arnsberg-Menden Airport,51.48389053,7.898333073,794,EU,DE,DE-NW,Neheim-Hüsten,0,,50
+28700,EDFB,small_airport,Reichelsheim Airport,50.3358345,8.878055573,397,EU,DE,DE-HE,Reichelsheim,0,,50
+2259,EDOV,small_airport,Stendal-Borstel Airport,52.62888718,11.81861115,184,EU,DE,DE-ST,Stendal,0,,50
+2194,EDAY,small_airport,Strausberg Airport,52.58055496,13.91666698,262,EU,DE,DE-BR,Strausberg,0,,50
+28739,EDRM,small_airport,Traben-Trarbach/Mont Royal Airfield,49.967777,7.111944,919,EU,DE,DE-RP,Traben-Trarbach,0,,50
+2267,EDRT,small_airport,Trier-Föhren Airport,49.863888,6.7875,666,EU,DE,DE-RP,Trier,0,,50
+28764,EDFW,small_airport,Würzburg-Schenkenturm Airport,49.81778,9.8975,991,EU,DE,DE-BY,Würzburg,0,,50
+317932,EDQA,medium_airport,Airport Bamberg-Breitenau,49.920403,10.914233,811,EU,DE,DE-BY,Bamberg,0,,0
+301881,BER,closed,Berlin Brandenburg Airport (U.C.),52.35138889,13.49388889,157,EU,DE,DE-BR,Berlin,0,BER,0
+2739,ETNL,medium_airport,Rostock-Laage Airport,53.91820145,12.27830029,138,EU,DE,DE-MV,Rostock,1,RLG,1050
+2748,ETSA,closed,Landsberg Lech Air Base,48.070599,10.906,2044,EU,DE,DE-BY,,0,,400
+2736,ETNG,medium_airport,Geilenkirchen Air Base,50.9608,6.04242,296,EU,DE,DE-NW,,0,GKE,325
+2730,ETIC,medium_airport,Grafenwohr Army Air Field,49.69869995,11.94019985,1363,EU,DE,DE-BY,,0,,250
+2732,ETIH,medium_airport,Hohenfels Army Air Field,49.2181015,11.83609962,1455,EU,DE,DE-BY,,0,,250
+28506,EDSH,small_airport,Backnang-Heiningen Airport,48.91972351,9.455278397,965,EU,DE,DE-BW,Backnang,0,,50
+28514,EDRA,small_airport,Bad Neuenahr-Ahrweiler Airport,50.5577774,7.136388779,673,EU,DE,DE-RP,Bad Neuenahr,0,,50
+2272,EDTB,small_airport,Baden-Oos Airport,48.7919426,8.185832977,404,EU,DE,DE-BW,Baden-Baden,0,,50
+2242,EDLI,small_airport,Bielefeld Airport,51.964722,8.544444,454,EU,DE,DE-NW,Bielefeld,0,BFE,50
+28548,EDWC,small_airport,Damme Airport,52.48749924,8.185556412,151,EU,DE,DE-NI,Damme,0,,50
+28566,EDWQ,small_airport,Ganderkesee Atlas Airfield Airport,53.03610992,8.505556107,95,EU,DE,DE-NI,Ganderkesee,0,,50
+28586,EDLH,small_airport,Hamm-Lippewiesen Airport,51.68972015,7.816111088,190,EU,DE,DE-NW,Hamm,0,,50
+2264,EDQT,small_airport,Haßfurt-Schweinfurt Airport,50.01805496,10.52944374,719,EU,DE,DE-BY,Haßfurt,0,,50
+28597,EDTH,small_airport,Heubach Airport,48.80277634,9.92749977,1424,EU,DE,DE-BW,Heubach,0,,50
+28613,EDMJ,small_airport,Flugplatz Jesenwang,48.174168,11.125,1860,EU,DE,DE-BY,Jesenwang,0,,50
+28672,EDWN,small_airport,Nordhorn-Lingen Airport,52.4575,7.182222,89,EU,DE,DE-NI,Klausheide,0,,50
+28632,EDWL,small_airport,Langeoog Airport,53.74250031,7.497777939,7,EU,DE,DE-NI,Langeoog,0,LGO,50
+2239,EDKZ,small_airport,Meinerzhagen Airport,51.09999847,7.599999905,1549,EU,DE,DE-NW,Meinerzhagen,0,,50
+28642,EDFU,small_airport,Mainbullau Airport,49.69499969,9.182499886,1503,EU,DE,DE-BY,Miltenberg,0,,50
+2271,EDSN,small_airport,Neuhausen ob Eck Airport,47.9766655,8.903888702,2638,EU,DE,DE-BW,Neuhausen ob Eck,0,,50
+28664,EDQN,small_airport,Neustadt/Aisch Airport,49.58750153,10.57750034,1198,EU,DE,DE-BY,Neustadt an der Aisch,0,,50
+28699,EDNR,small_airport,Regensburg-Oberhub Airport,49.14194489,12.08194447,1299,EU,DE,DE-BY,Regensburg,0,,50
+28584,EDCG,small_airport,Rügen Airport,54.3833313,13.3255558,69,EU,DE,DE-MV,Rügen,0,GTI,50
+28707,EDQP,small_airport,Rosenthal-Field Plössen Airport,49.86333466,11.7877779,1496,EU,DE,DE-BY,Speichersdorf,0,,50
+28732,EDPS,small_airport,Sonnen Airport,48.6827774,13.69472218,2674,EU,DE,DE-BY,Waldkirchen,0,,50
+2290,EDWI,small_airport,Wilhelmshaven-Mariensiel Airport,53.50222015,8.052222252,16,EU,DE,DE-NI,Wilhelmshaven,0,WVN,50
+28765,EDXY,small_airport,Wyk auf Föhr Airport,54.68444443,8.52833271,26,EU,DE,DE-SH,Wyk auf Föhr,0,OHR,50
+309630,EDST,small_airport,Flugplatz Hahnweide,48.631944,9.430556,1146,EU,DE,DE-BW,Kirchheim unter Teck,0,,0
+2288,EDWE,small_airport,Emden Airport,53.391109,7.2275,3,EU,DE,DE-NI,Emden,1,EME,450
+2258,EDOP,medium_airport,Schwerin Parchim Airport,53.426998,11.7834,166,EU,DE,DE-MV,,0,SZW,400
+2727,ETHN,medium_airport,Niederstetten Army Air Base,49.391945,9.958889,1339,EU,DE,DE-BW,Niederstetten,0,,400
+2735,ETND,medium_airport,Diepholz Air Base,52.585556,8.342222,128,EU,DE,DE-NI,Diepholz,0,,300
+2725,ETHL,medium_airport,Laupheim Air Base,48.220299,9.91002,1766,EU,DE,DE-BW,,0,,250
+2728,ETHR,medium_airport,Roth Airport,49.21749878,11.1001997,1268,EU,DE,DE-BY,,0,,250
+2726,ETHM,medium_airport,Mendig Airport,50.36600113,7.315330029,597,EU,DE,DE-RP,,0,,250
+2724,ETHF,medium_airport,Fritzlar Airport,51.1146,9.286,1345,EU,DE,DE-HE,Fritzlar,0,FRZ,250
+2199,EDBM,medium_airport,"Magdeburg ""City"" Airport",52.073612,11.626389,259,EU,DE,DE-ST,Magdeburg,0,ZMG,250
+2731,ETID,closed,Hanau Army Air Field,50.169201,8.96159,368,EU,DE,DE-HE,,0,,50
+2196,EDBH,small_airport,Barth Airport,54.338253,12.710515,23,EU,DE,DE-MV,,0,BBH,50
+29404,ETUR,closed,Brüggen Air Base,51.199699,6.13208,248,EU,DE,DE-NW,,0,,50
+28499,EDQF,small_airport,Ansbach-Petersdorf Airport,49.361111,10.669444,1371,EU,DE,DE-BY,Ansbach,0,,50
+28515,EDFD,small_airport,Bad Neustadt/Saale-Grasberg Airport,50.30611038,10.2266674,997,EU,DE,DE-BY,Bad Neustadt a.d.Saale,0,,50
+28697,EDVY,small_airport,Porta Westfalica Airport,52.22083282,8.859167099,148,EU,DE,DE-NW,Bad Oeynhausen,0,,50
+28517,EDQB,small_airport,Bad Windsheim Airport,49.50999832,10.36638927,1220,EU,DE,DE-BY,Bad Windsheim,0,,50
+28538,EDGB,small_airport,Breitscheid Airport,50.67638779,8.169444084,1834,EU,DE,DE-HE,Breitscheid,0,,50
+2275,EDTG,small_airport,Bremgarten Airport,47.90277863,7.617777824,696,EU,DE,DE-BW,Bremgarten,0,,50
+28544,EDQC,small_airport,Coburg-Brandensteinsebene Airport,50.262501,10.995556,1490,EU,DE,DE-BY,Coburg,0,,50
+28659,EDAP,small_airport,Neuhausen Airport,51.6847229,14.42305565,279,EU,DE,DE-BR,Cottbus,0,,50
+28550,EDMW,small_airport,Deggendorf Airport,48.83027649,12.87972164,1030,EU,DE,DE-BY,Deggendorf,0,,50
+28554,EDMQ,small_airport,Donauwörth-Genderkingen Airport,48.70277786,10.85111141,1312,EU,DE,DE-BY,Donauwörth,0,,50
+2192,EDAV,small_airport,Eberswalde-Finow Airport,52.82722092,13.69361115,121,EU,DE,DE-BR,Eberswalde,0,,50
+28557,EDCE,small_airport,Eggersdorf Airport,52.481667,14.0875,223,EU,DE,DE-BR,Eggersdorf,0,,50
+28565,EDGF,small_airport,Fulda-Jossa Airport,50.47555542,9.442500114,1558,EU,DE,DE-HE,Fulda,0,,50
+28569,EDAJ,small_airport,Gera-Leumnitz Airport,50.88166809,12.13583279,1014,EU,DE,DE-TH,Gera,0,,50
+43125,EDQG,small_airport,Giebelstadt Airport,49.64805603,9.966388702,981,EU,DE,DE-BY,Giebelstadt,0,GHF,50
+28571,EDNG,small_airport,Giengen/Brenz Airport,48.63416672,10.2163887,1696,EU,DE,DE-BW,Giengen an der Brenz,0,,50
+28572,EDFL,small_airport,Gießen-Lützellinden Airport,50.54388809,8.590277672,755,EU,DE,DE-HE,Gießen,0,,50
+29076,EDMU,small_airport,Gundelfingen Airport,48.56944275,10.35888863,1447,EU,DE,DE-BY,Gundelfingen a.d.Donau,0,,50
+28588,EDXP,small_airport,Harle Airport,53.70666885,7.820278168,7,EU,DE,DE-NI,Harlesiel,0,,50
+28594,EDQH,small_airport,Herzogenaurach Airport,49.58250046,10.87805557,1070,EU,DE,DE-BY,Herzogenaurach,0,,50
+28602,EDVI,small_airport,Höxter-Holzminden Airport,51.80666733,9.378333092,1263,EU,DE,DE-NW,Höxter,0,,50
+28617,EDTK,closed,Karlsruhe-Forchheim Airport,48.9843,8.3355,381,EU,DE,DE-BW,Karlsruhe,0,,50
+2733,ETIN,small_airport,Flugplatz Kitzingen,49.743099,10.2006,689,EU,DE,DE-BY,Kitzingen,0,KZG,50
+28731,EDBS,small_airport,Sömmerda-Dermsdorf Airport,51.19916534,11.19250011,453,EU,DE,DE-TH,Kölleda,0,,50
+28625,EDLK,small_airport,Krefeld-Egelsberg Airport,51.38499832,6.587778091,141,EU,DE,DE-NW,Krefeld,0,,50
+28637,EDKL,small_airport,Leverkusen Airport,51.01527786,7.005556107,157,EU,DE,DE-NW,Leverkusen,0,,50
+29074,EDHG,small_airport,Lüneburg Airport,53.24888992,10.46166706,161,EU,DE,DE-NI,Lüneburg,0,,50
+28641,EDOJ,small_airport,Lüsse Airport,52.14110947,12.66472244,217,EU,DE,DE-BR,Lüsse,0,,50
+28647,EDKM,small_airport,Meschede-Schüren Airport,51.30277634,8.239167213,1434,EU,DE,DE-NW,Meschede,0,,50
+28648,EDFO,small_airport,Michelstadt/Odenwald Airport,49.67861176,8.971943855,1142,EU,DE,DE-HE,Michelstadt,0,,50
+2251,EDMN,small_airport,Mindelheim-Mattsies Airport,48.10694504,10.52499962,1857,EU,DE,DE-BY,Mindelheim,0,,50
+28628,EDRL,small_airport,Lachen-Speyerdorf Airport,49.33083344,8.209721565,394,EU,DE,DE-RP,Neustadt an der Weinstraße,0,,50
+28678,EDLO,small_airport,Oerlinghausen Airport,51.93222046,8.66166687,558,EU,DE,DE-NW,Oerlinghausen,0,,50
+28679,EDTO,small_airport,Offenburg Airport,48.45000076,7.924722195,509,EU,DE,DE-BW,Offenburg,0,,50
+28681,EDGP,small_airport,Oppenheim Airport,49.84166718,8.376667023,279,EU,DE,DE-RP,Oppenheim,0,,50
+2190,EDAQ,small_airport,Halle-Oppin Airport,51.552223,12.053889,348,EU,DE,DE-ST,Oppin,0,,50
+28684,EDWO,small_airport,Osnabrück-Atterheide Airport,52.286388,7.969722,287,EU,DE,DE-NI,Osnabrück,0,,50
+2207,EDCP,small_airport,Peenemünde Airport,54.15777969,13.77444363,7,EU,DE,DE-MV,Peenemünde,0,PEF,50
+28688,EDQZ,small_airport,Pegnitz-Zipser Berg Airport,49.76222229,11.57472229,1791,EU,DE,DE-BY,Pegnitz,0,,50
+28694,EDRP,small_airport,Pirmasens Airport,49.26444244,7.488333225,1247,EU,DE,DE-RP,Pirmasens,0,,50
+28695,EDAR,small_airport,Pirna-Pratzschwitz Airport,50.97916794,13.90972233,400,EU,DE,DE-SN,Pirna,0,,50
+28701,EDOD,small_airport,Reinsdorf Airport,51.90083313,13.1944437,335,EU,DE,DE-BR,Reinsdorf,0,,50
+2295,EDXR,small_airport,Rendsburg-Schachtholm Airport,54.22000122,9.599444389,23,EU,DE,DE-SH,Rendsburg,0,,50
+29097,EDXQ,small_airport,Rotenburg (Wümme) Airport,53.12833405,9.348610878,98,EU,DE,DE-NI,Rotenburg (Wümme),0,,50
+28709,EDSZ,small_airport,Rottweil-Zepfenhahn Airport,48.18638992,8.721111298,2444,EU,DE,DE-BW,Rottweil,0,,50
+28733,EDXM,small_airport,St. Michaelisdonn Airport,53.97805786,9.144721985,125,EU,DE,DE-SH,Sankt Michaelisdonn,0,,50
+28717,EDKR,small_airport,Schmallenberg-Rennefeld Airport,51.16166687,8.26222229,1529,EU,DE,DE-NW,Schmallenberg,0,,50
+29972,ETIK,heliport,Illesheim Air Base,49.47389984,10.38809967,1079,EU,DE,DE-BY,Storck Barracks,0,ILH,50
+28750,EDEW,small_airport,Walldürn Airport,49.58166885,9.40222168,1312,EU,DE,DE-BW,Walldürn,0,,50
+29083,EDOU,small_airport,Weimar-Umpferstedt Airport,50.96472168,11.40027809,984,EU,DE,DE-TH,Weimar ,0,,50
+28761,EDKN,small_airport,Wipperfürth-Neye Airport,51.1241684,7.373610973,863,EU,DE,DE-NW,Wipperfürth,0,,50
+28766,EDBI,small_airport,Zwickau Airport,50.70166779,12.45388889,1050,EU,DE,DE-SN,Zwickau,0,,50
+28591,EDXH,small_airport,Helgoland-Düne Airport,54.18527985,7.915832996,8,EU,DE,DE-SH,Helgoland,1,HGL,450
+2744,ETNW,medium_airport,Wunstorf Air Base,52.457298,9.42717,187,EU,DE,DE-NI,,0,,400
+2752,ETSH,medium_airport,Holzdorf Air Base,51.767799,13.1677,265,EU,DE,DE-BR,,0,,300
+2746,ETOR,medium_airport,Coleman Army Air Field,49.56359863,8.46339035,309,EU,DE,DE-BW,,0,,250
+2721,ETHB,medium_airport,Bückeburg Air Base,52.2785,9.08217,230,EU,DE,DE-NI,,0,,250
+2740,ETNN,medium_airport,Nörvenich Air Base,50.8312,6.65817,386,EU,DE,DE-NW,,0,,250
+2749,ETSB,medium_airport,Büchel Air Base,50.17380142,7.063330173,1568,EU,DE,DE-RP,,0,,250
+2279,EDUB,closed,Brandenburg-Briest Airport,52.43861,12.458333,102,EU,DE,DE-BR,Brandenburg an der Havel,0,,250
+2204,EDCD,medium_airport,Cottbus-Drewitz Airport,51.889442,14.531944,272,EU,DE,DE-BR,Cottbus,0,CBU,250
+2750,ETSE,closed,Erding Air Base,48.3223,11.9487,1515,EU,DE,DE-BY,Erding,0,,250
+2751,ETSF,medium_airport,Fürstenfeldbruck Air Base,48.205555,11.266944,1703,EU,DE,DE-BY,Fürstenfeldbruck,0,FEL,250
+2756,ETUO,closed,Gütersloh Air Base,51.922798,8.30633,236,EU,DE,DE-NW,Gütersloh,0,GUT,250
+2754,ETSL,medium_airport,Lechfeld Air Base,48.185504,10.8612,1822,EU,DE,DE-BY,Lagerlechfeld,0,,250
+2755,ETSN,medium_airport,Neuburg AFB,48.710999,11.2115,1249,EU,DE,DE-BY,Neuburg (Donau),0,,250
+2200,EDBR,medium_airport,Rothenburg/Görlitz Airport,51.36333466,14.94999981,518,EU,DE,DE-SN,Rothenburg/Oberlausitz,0,,250
+2720,ETEU,closed,[Duplicate] Giebelstadt Army Air Field,49.64810181,9.966489792,980,EU,DE,DE-BY,,0,,50
+2745,ETOI,small_airport,Vilseck Army Air Field,49.63359833,11.76720047,1353,EU,DE,DE-BY,,0,,50
+2229,EDFQ,small_airport,Allendorf/Eder Airport,51.03499985,8.680832863,1158,EU,DE,DE-HE,Allendorf,0,,50
+2201,EDBT,small_airport,Allstedt Airport,51.3805542,11.44666672,932,EU,DE,DE-ST,Allstedt,0,,50
+28497,EDKD,small_airport,Altena-Hegenscheid Airport,51.31305695,7.704166889,1552,EU,DE,DE-NW,Altena,0,,50
+29395,ETHA,small_airport,Altenstadt Army Airfield,47.83549881,10.87119961,2425,EU,DE,DE-BY,Altenstadt,0,,50
+28498,EDNA,small_airport,Ampfing-Waldkraiburg Airport,48.26361084,12.41166687,1362,EU,DE,DE-BY,Ampfing,0,,50
+2203,EDCA,small_airport,Anklam Airport,53.83277893,13.66861057,16,EU,DE,DE-MV,Anklam,0,,50
+28501,EDNB,small_airport,Arnbruck Airport,49.12472153,12.98555565,1716,EU,DE,DE-BY,Arnbruck,0,,50
+28503,EDCQ,small_airport,Aschersleben Airport,51.76694489,11.49833298,525,EU,DE,DE-ST,Aschersleben,0,,50
+28504,EDKU,small_airport,Attendorn-Finnentrop Airport,51.14583206,7.936666965,1040,EU,DE,DE-NW,Attendorn,0,,50
+28507,EDOB,small_airport,Bad Berka Airport,50.90444565,11.26027775,1001,EU,DE,DE-TH,Bad Berka,0,,50
+29678,EDPC,small_airport,Bad Endorf/Jolling Airport,47.92689896,12.28719997,1690,EU,DE,DE-BY,Bad Endorf,0,,50
+28512,EDFK,small_airport,Bad Kissingen Airport,50.21055603,10.06888866,653,EU,DE,DE-BY,Bad Kissingen,0,,50
+28516,EDVW,small_airport,Hameln-Pyrmont Airport,51.96666718,9.291666985,1178,EU,DE,DE-NI,Bad Pyrmont,0,,50
+28729,EDRS,small_airport,Bad Sobernheim-Domberg Airport,49.79083252,7.666110992,810,EU,DE,DE-RP,Bad Sobernheim,0,,50
+28518,EDNH,small_airport,Bad Wörishofen-Nord Airport,48.016388,10.616111,2034,EU,DE,DE-BY,Bad Wörishofen,0,,50
+28519,EDCB,small_airport,Flugplatz Ballenstedt,51.745834,11.229722,535,EU,DE,DE-ST,Ballenstedt,0,,50
+28520,EDWZ,small_airport,Baltrum Airport,53.72472382,7.373332977,7,EU,DE,DE-NI,Baltrum,0,BMR,50
+28522,EDNC,small_airport,Beilngries Airport,49.02138901,11.48472214,1211,EU,DE,DE-BY,Beilngries,0,,50
+28527,EDMC,small_airport,Blaubeuren Airport,48.41972351,9.798333168,2218,EU,DE,DE-BW,Blaubeuren,0,,50
+28533,EDNQ,small_airport,Bopfingen Airport,48.84805679,10.33388901,2028,EU,DE,DE-BW,Bopfingen,0,,50
+28535,EDLY,small_airport,Borken-Hoxfeld Airport,51.85333252,6.814722061,157,EU,DE,DE-NW,Borken,0,,50
+28540,EDKO,small_airport,Brilon/Hochsauerlandkreis Airport,51.40250015,8.641667366,1509,EU,DE,DE-NW,Brilon,0,,50
+28671,EDXN,small_airport,Nordholz-Spieka Airfield,53.767223,8.643611,72,EU,DE,DE-NI,Cuxhaven,0,,50
+29089,EDRW,small_airport,Dierdorf-Wienau Airport,50.56611252,7.653333187,951,EU,DE,DE-RP,Dierdorf,0,,50
+28552,EDND,small_airport,Dinkelsbühl-Sinbronn Airport,49.06499863,10.40111065,1598,EU,DE,DE-BY,Dinkelsbühl,0,,50
+28555,EDPM,small_airport,Donzdorf Airport,48.67805481,9.843610764,2274,EU,DE,DE-BW,Donzdorf,0,,50
+28558,EDPE,small_airport,Eichstätt Airport,48.8769455,11.18222237,1713,EU,DE,DE-BY,Eichstätt,0,,50
+29087,EDPY,small_airport,Ellwangen Airport,48.96110916,10.23638916,1650,EU,DE,DE-BW,Ellwangen,0,,50
+28561,EDBF,small_airport,Ruppiner Land Airport,52.79333115,12.76027775,138,EU,DE,DE-BR,Fehrbellin,0,,50
+28568,EDFG,small_airport,Gelnhausen Airport,50.19722366,9.170000076,446,EU,DE,DE-HE,Gelnhausen,0,,50
+29072,EDER,small_airport,Wasserkuppe Airport,50.49888992,9.953888893,2956,EU,DE,DE-HE,Gersfeld,0,,50
+29075,EDLG,small_airport,Goch-Asperden Airport,51.69083405,6.104166985,52,EU,DE,DE-NW,Goch,0,,50
+43126,EDSG,small_airport,Grabenstetten Airport,48.53610992,9.436944008,2329,EU,DE,DE-BW,Grabenstetten,0,,50
+28576,DE-0004,small_airport,Gransee Airport,53.00669861,13.20499992,164,EU,DE,DE-BR,Gransee,0,,50
+2188,EDAK,small_airport,Großenhain Airport,51.30805588,13.5555563,417,EU,DE,DE-SN,Großenhain,0,,50
+28582,EDMG,small_airport,Günzburg-Donauried Airport,48.48666763,10.28333282,1457,EU,DE,DE-BY,Günzburg,0,,50
+28585,EDMH,small_airport,Gunzenhausen-Reutberg Airfield,49.111942,10.780833,1591,EU,DE,DE-BY,Gunzenhausen,0,,50
+29399,ETIE,heliport,[Duplicate] Heidelberg Army Heliport,49.393501,8.65208,358,EU,DE,DE-BW,Heidelberg,0,HDB,50
+28595,EDGH,small_airport,Hettstadt Airport,49.79861069,9.836667061,1050,EU,DE,DE-BY,Hettstadt,0,,50
+28599,EDFX,small_airport,Hockenheim Airport,49.32527924,8.528611183,315,EU,DE,DE-BW,Hockenheim,0,,50
+28600,EDVH,small_airport,Hodenhagen Airport,52.761865,9.61056,79,EU,DE,DE-NI,Hodenhagen,0,,50
+29073,EDHF,small_airport,Itzehoe/Hungriger Wolf Airport,53.9944458,9.578611374,89,EU,DE,DE-SH,Itzehoe,0,,50
+28624,EDGK,small_airport,Korbach Airport,51.25222015,8.87361145,1280,EU,DE,DE-HE,Korbach,0,,50
+2198,EDBK,small_airport,Kyritz Airport,52.91888809,12.42527771,131,EU,DE,DE-BR,Kyritz,0,,50
+28629,EDPJ,small_airport,Laichingen Airport,48.49694443,9.640277863,2434,EU,DE,DE-BW,Laichingen,0,,50
+28630,EDML,small_airport,Landshut Airport,48.51166534,12.03333282,1312,EU,DE,DE-BY,Landshut,0,,50
+2193,EDAX,small_airport,Rechlin-Lärz Airport,53.30638886,12.75222206,220,EU,DE,DE-MV,Lärz,0,REB,50
+43122,EDBL,small_airport,Laucha Airport,51.24583435,11.69333267,738,EU,DE,DE-ST,Laucha an der Unstrut,0,,50
+28634,EDQI,small_airport,Lauf-Lillinghof Airport,49.60527802,11.28388882,1788,EU,DE,DE-BY,Lauf an der Pegnitz,0,,50
+28635,EDFT,small_airport,Lauterbach Airport,50.683334,9.410833,1211,EU,DE,DE-HE,Lauterbach,0,,50
+28638,EDQL,small_airport,Lichtenfels Airport,50.14860916,11.04805565,853,EU,DE,DE-BY,Lichtenfels,0,,50
+28559,EDFY,small_airport,Elz Airport,50.42694473,8.011111259,699,EU,DE,DE-HE,Limburg an der Lahn,0,,50
+28643,EDFN,small_airport,Marburg-Schönstadt Airport,50.87444305,8.81499958,833,EU,DE,DE-HE,Marburg,0,,50
+28653,EDTN,small_airport,Nabern/Teck Airport,48.61277771,9.477222443,1214,EU,DE,DE-BW,Nabern,0,,50
+28661,EDPO,small_airport,Neumarkt/Obf. Airport,49.28555679,11.44305611,1394,EU,DE,DE-BY,Neumarkt in der Oberpfalz,0,,50
+28662,EDHN,small_airport,Neumünster Airport,54.07944489,9.941389084,72,EU,DE,DE-SH,Neumünster,0,EUM,50
+28596,EDQX,small_airport,Hetzleser Berg Airport,49.64222336,11.16222191,1765,EU,DE,DE-BY,Neunkirchen am Brand,0,,50
+28667,EDNM,small_airport,Nittenau-Bruck Airport,49.22249985,12.2966671,1161,EU,DE,DE-BY,Nittenau,0,,50
+28668,EDWS,small_airport,Norden-Norddeich Airport,53.63305664,7.190278053,3,EU,DE,DE-NI,Norddeich,0,NOD,50
+28673,EDNO,small_airport,Nördlingen Airport,48.87055588,10.50500011,1385,EU,DE,DE-BY,Nördlingen,0,,50
+2206,EDCO,small_airport,Obermehler-Schlotheim Airport,51.26777649,10.63472176,909,EU,DE,DE-TH,Obermehler,0,,50
+28689,EDVP,closed,Peine-Eddesse Airport,52.40250015,10.22888947,249,EU,DE,DE-NI,Peine,0,,50
+28692,EDNP,small_airport,Pfarrkirchen Airport,48.42027664,12.86472225,1266,EU,DE,DE-BY,Pfarrkirchen,0,,50
+28703,EDCR,small_airport,Rerik-Zweedorf Airport,54.08194351,11.64916706,30,EU,DE,DE-MV,Rerik,0,,50
+29082,EDOR,small_airport,Stölln-Rhinow Airport,52.74083328,12.39000034,138,EU,DE,DE-BR,Rhinow,0,,50
+28705,EDVR,small_airport,Rinteln Airport,52.17527771,9.053333282,180,EU,DE,DE-NI,Rinteln,0,,50
+28711,EDRJ,small_airport,Saarlouis-Düren Airport,49.3125,6.674444199,1119,EU,DE,DE-SL,Saarlouis,0,,50
+29095,EDVJ,small_airport,Salzgitter-Schäferstuhl Airport,52.03027725,10.36444378,741,EU,DE,DE-NI,Salzgitter,0,,50
+28734,EDXO,small_airport,St. Peter-Ording Airport,54.30888748,8.686944008,7,EU,DE,DE-SH,Sankt Peter-Ording,0,PSH,50
+28718,EDPQ,small_airport,Schmidgaden Airport,49.42944336,12.09805584,1247,EU,DE,DE-BY,Schmidgaden,0,,50
+28760,EDTW,small_airport,Winzeln-Schramberg Airport,48.27916718,8.428333282,2310,EU,DE,DE-BW,Schramberg,0,,50
+28720,EDPH,small_airport,Schwabach-Heidenberg Airport,49.26861191,11.00972176,1181,EU,DE,DE-BY,Schwabach,0,,50
+28722,EDTX,small_airport,Schwäbisch Hall-Weckrieden Airport,49.12444305,9.781110764,1299,EU,DE,DE-BW,Schwäbisch Hall,0,,50
+28543,EDPF,small_airport,Schwandorf Airport,49.33972168,12.18805599,1270,EU,DE,DE-BY,Schwandorf,0,,50
+29065,EDBZ,small_airport,Schwarzheide/Schipkau Airport,51.48972321,13.87944412,331,EU,DE,DE-BR,Schwarzheide,0,,50
+28723,EDRO,small_airport,Schweighofen Airport,49.0316658,7.989999771,492,EU,DE,DE-RP,Schweighofen,0,,50
+28724,EDFS,small_airport,Schweinfurt-Süd Airport,50.01083374,10.25111103,686,EU,DE,DE-BY,Schweinfurt,0,,50
+28603,EDXT,small_airport,Sierksdorf/Hof Altona Airport,54.06777954,10.7430563,79,EU,DE,DE-SH,Sierksdorf,0,,50
+29063,EDBV,small_airport,Stralsund Airport,54.3358345,13.04333305,49,EU,DE,DE-MV,Stralsund,0,,50
+29086,EDPW,small_airport,Thalmässing-Waizenhofen Airport,49.06416702,11.20916653,1893,EU,DE,DE-BY,Thalmässing,0,,50
+28741,EDVU,small_airport,Uelzen Airport,52.98389053,10.46500015,246,EU,DE,DE-NI,Uelzen,0,,50
+28725,EDTS,small_airport,Schwenningen am Neckar Airport,48.06583405,8.571389198,2169,EU,DE,DE-BW,Villingen-Schwenningen,0,,50
+28747,EDNV,small_airport,Vogtareuth Airport,47.94610977,12.2047224,1535,EU,DE,DE-BY,Vogtareuth,0,,50
+28749,EDGX,small_airport,Walldorf Airport,49.30305481,8.658888817,344,EU,DE,DE-BW,Walldorf,0,,50
+28753,EDQW,small_airport,Weiden in der Oberpfalz Airport,49.67890167,12.11639977,1329,EU,DE,DE-BY,Weiden in der Oberpfalz,0,,50
+28754,EDGZ,small_airport,Weinheim/Bergstraße Airport,49.56750107,8.610555649,318,EU,DE,DE-BW,Weinheim,0,,50
+2208,EDCY,small_airport,Spremberg-Welzow Airport,51.57555771,14.13694382,374,EU,DE,DE-BR,Welzow,0,,50
+29093,EDUY,seaplane_base,Welzow-Sedlitzer See Airport,51.557777,14.105,361,EU,DE,DE-BR,Welzow,0,,50
+28756,EDKW,small_airport,Werdohl-Küntrop Airport,51.29722214,7.818333149,1037,EU,DE,DE-NW,Werdohl,0,,50
+28762,EDCW,small_airport,Wismar Airport,53.914444,11.499444,43,EU,DE,DE-MV,Wismar,0,,50
+28495,EDBA,small_airport,Arnstadt-Alkersleben Airport,50.84166718,11.0694437,1145,EU,DE,DE-TH,Wülfershausen,0,,50
+29079,EDNZ,small_airport,Zell-Haidberg Airport,50.13694382,11.79444408,2083,EU,DE,DE-BY,Zell im Fichtelgebirge,0,,50
+29393,ETEB,heliport,Ansbach Army Heliport,49.30820084,10.63869953,,EU,DE,DE-BY,,0,,25
+311045,DE-0114,small_airport,Segelfluggelände Farrenberg,48.38570626,9.076333,2641,EU,DE,DE-BW,,0,,0
+314004,EDSE,small_airport,Göppingen-Bezgenriet Airport,48.65861111,9.624166667,,EU,DE,DE-BW,,0,,0
+314007,EDSR,small_airport,Radolfzell-Stahringen Airport,47.80444444,8.980555556,,EU,DE,DE-BW,,0,,0
+315395,DE-0197,small_airport,Heinsberg,51.0505556,6.0541667,216,EU,DE,DE-NW,,0,,0
+308982,DE-0072,small_airport,Bad Wörishofen Glider Airfield,48.02678,10.60135,2020,EU,DE,DE-BY,Bad Wörishofen,0,,0
+308152,DE-0038,small_airport,Utscheid Segelflugplatz,49.99777778,6.342777778,1390,EU,DE,DE-RP,Bitburg,0,,0
+308233,DE-0053,small_airport,Cham-Janahof Airfield,49.2120465,12.65410423,1200,EU,DE,DE-BY,Cham,0,,0
+315480,DE-0215,small_airport,Ludwigshafen Airfield,49.4131,8.3518,318,EU,DE,DE-RP,Dannstadt,0,,0
+328934,DE-0416,closed,Maurice Rose Army Air Field,50.177008,8.658793,,EU,DE,DE-HE,Frankfurt am Main,0,,0
+328937,DE-0417,closed,Air field Rebstock,50.111029,8.613238,,EU,DE,DE-HE,Frankfurt am Main,0,,0
+299694,DE-0003,closed,August-Euler Airport,49.853757,8.586243,,EU,DE,DE-HE,Griesheim,0,,0
+46652,RHST,small_airport,Rheinstetten Glider Field,48.9777,8.3425,380,EU,DE,DE-BW,Karlsruhe,0,,0
+300110,ETIP,heliport,Landstuhl Army Heliport,49.40305556,7.536111111,1176,EU,DE,DE-RP,Landstuhl,0,,0
+308408,EDGL,heliport,Ludwigshafen Unfallklinik Heliport.,49.4865,8.3893,313,EU,DE,DE-RP,Ludwigshafen,0,,0
+308252,DE-0056,small_airport,Paterzell Airfield,47.84692036,11.06108665,1955,EU,DE,DE-BY,Paterzell,0,,0
+313877,DE-0151,small_airport,Huhnrain Airfield,50.4903,9.85,1405,EU,DE,DE-HE,Poppenhausen,0,,0
+315134,DE-0183,small_airport,Welzheim Airfield,48.8763,9.6537,1700,EU,DE,DE-BW,Welzheim,0,,0
+2737,ETNH,medium_airport,Hohn Air Base,54.312199,9.53817,39,EU,DE,DE-SH,,0,,400
+2734,ETMN,medium_airport,Nordholz Naval Airbase,53.7677002,8.658499718,74,EU,DE,DE-NI,Cuxhaven,0,FCN,400
+2743,EDBN,medium_airport,Neubrandenburg Airport,53.6022,13.306,228,EU,DE,DE-MV,Neubrandenburg,0,FNB,400
+2722,ETHC,medium_airport,Celle Airport,52.59120178,10.02210045,129,EU,DE,DE-NI,,0,ZCN,250
+2729,ETHS,medium_airport,Fassberg Air Base,52.919399,10.185827,245,EU,DE,DE-NI,,0,,250
+2738,ETNJ,medium_airport,Jever Air Base,53.533501,7.88867,24,EU,DE,DE-NI,,0,,250
+2742,ETNT,medium_airport,Wittmundhafen Airport,53.54779816,7.667329788,26,EU,DE,DE-NI,,0,,250
+2723,ETHE,medium_airport,Rheine Bentlage Air Base,52.291199,7.387,129,EU,DE,DE-NW,,0,,250
+2741,ETNS,medium_airport,Schleswig Air Base,54.459301,9.51633,70,EU,DE,DE-SH,Jagel,0,WBG,250
+29094,EDUZ,medium_airport,Zerbst Airport,52.000832,12.148611,289,EU,DE,DE-ST,Zerbst/Anhalt,0,,250
+28562,EDCF,small_airport,Friedersdorf Airport,52.28329849,13.80690002,115,EU,DE,DE-BR,,0,,50
+28563,EDAL,closed,Fuerstenwalde Airport,52.3905983,14.09720039,184,EU,DE,DE-BR,,0,,50
+28656,EDCN,closed,Nauen Airport,52.6278,12.9139,112,EU,DE,DE-BR,,0,,50
+29398,ETHT,closed,Cottbus Army Airfield,51.767899,14.292,220,EU,DE,DE-BR,,0,,50
+29724,EDUC,closed,Briesen Brand Airport,52.036381,13.733482,230,EU,DE,DE-BR,,0,,50
+29848,EDNF,small_airport,Elsenthal Grafe Airport,48.82249832,13.36750031,1417,EU,DE,DE-BY,,0,,50
+28669,EDGN,closed,Nordenbeck Airport,51.23507912,8.817526102,1453,EU,DE,DE-HE,,0,,50
+29405,ETWM,small_airport,Meppen Air Base,52.723202,7.32633,,EU,DE,DE-NI,,0,,50
+29396,ETHH,heliport,Bonn-Hardthoehe Air Base,50.69630051,7.04433012,522,EU,DE,DE-NW,,0,,50
+30206,EDLU,small_airport,Oelde Bergeler Airport,51.83060074,8.17471981,269,EU,DE,DE-NW,,0,,50
+29394,ETEK,small_airport,Baumholder Army Air Field,49.65029907,7.300069809,,EU,DE,DE-RP,,0,,50
+29400,ETME,closed,Eggebeck Air Base,54.624802,9.346,65,EU,DE,DE-SH,,0,,50
+31022,ETNA,closed,Ahlhorn Air Force Base,52.882999,8.233,162,EU,DE,DE-NI,Ahlhorn,0,,50
+28493,EDGA,small_airport,Ailertchen Airport,50.59305573,7.945000172,1542,EU,DE,DE-RP,Ailertchen,0,,50
+28494,EDSA,small_airport,Albstadt-Degerfeld Airport,48.24972153,9.0625,2881,EU,DE,DE-BW,Albstadt,0,,50
+28496,EDSW,small_airport,Altdorf-Wallburg Airport,48.27000046,7.841944218,623,EU,DE,DE-BW,Altdorf,0,,50
+28500,EDFA,small_airport,Anspach/Taunus Airport,50.28833389,8.5338888,1102,EU,DE,DE-HE,Anspach,0,,50
+29088,EDRV,small_airport,Wershofen/Eifel Airfield,50.451389,6.783333,1581,EU,DE,DE-RP,Aremberg,0,,50
+28505,EDOA,small_airport,Auerbach Airport,50.49888992,12.37777805,1880,EU,DE,DE-SN,Auerbach/Vogtl.,0,,50
+29677,EDEF,small_airport,Babenhausen Airport,49.95249939,8.968055725,928,EU,DE,DE-HE,Babenhausen,0,,50
+28508,EDPB,small_airport,Bad Ditzenbach Airport,48.56277847,9.728889465,2362,EU,DE,DE-BW,Bad Ditzenbach,0,,50
+28510,EDOF,small_airport,Bad Frankenhausen Airport,51.37250137,11.14138889,761,EU,DE,DE-TH,Bad Frankenhausen,0,,50
+28511,EDVA,small_airport,Bad Gandersheim Airport,51.85416794,10.02555561,791,EU,DE,DE-NI,Bad Gandersheim,0,,50
+29070,EDEB,small_airport,Bad Langensalza Airport,51.12916565,10.62222195,650,EU,DE,DE-TH,Bad Langensalza,0,,50
+28675,EDFP,small_airport,Ober-Mörlen Airfield,50.361942,8.711111,814,EU,DE,DE-HE,Bad Neuheim,0,,50
+28730,EDLZ,small_airport,Soest/Bad Sassendorf Airport,51.57805634,8.21472168,394,EU,DE,DE-NW,Bad Sassendorf,0,,50
+28714,EDTU,small_airport,Saulgau Airport,48.02944565,9.507222176,1903,EU,DE,DE-BW,Bad Saulgau,0,,50
+28521,EDXL,small_airport,Barßel Airport,53.16444397,7.793889046,10,EU,DE,DE-NI,Barßel,0,,50
+29085,EDPU,small_airport,Bartholomä-Amalienhof Airport,48.746666,10.005,2092,EU,DE,DE-BW,Bartholomä,0,,50
+2183,EDAB,small_airport,Bautzen Airport,51.19361115,14.51972198,568,EU,DE,DE-SN,Bautzen,0,,50
+28621,EDCI,small_airport,Klix Airport,51.27388763,14.50638866,486,EU,DE,DE-SN,Bautzen,0,,50
+29077,EDNI,small_airport,Berching Airport,49.1305542,11.44305611,1266,EU,DE,DE-BY,Berching,0,,50
+28523,EDKF,small_airport,Bergneustadt/Auf dem Dümpel Airport,51.05222321,7.707221985,1604,EU,DE,DE-NW,Bergneustadt,0,,50
+28524,EDKI,small_airport,Betzdorf-Kirchen Airport,50.8172226,7.830555916,1125,EU,DE,DE-RP,Betzdorf,0,,50
+28526,EDSI,small_airport,Binningen Airport,47.79916763,8.720000267,1594,EU,DE,DE-BW,Binningen,0,,50
+28528,EDVF,small_airport,Blomberg-Borkhausen Airport,51.91722107,9.111666679,535,EU,DE,DE-NW,Blomberg,0,,50
+28529,EDSL,small_airport,Blumberg Airport,47.8441658,8.56499958,2290,EU,DE,DE-BW,Blumberg,0,,50
+28530,EDOE,small_airport,Böhlen Airport,51.21389008,12.36361122,430,EU,DE,DE-SN,Böhlen,0,,50
+28531,EDXD,small_airport,Bohmte-Bad Essen Airport,52.35139084,8.328332901,148,EU,DE,DE-NI,Bohmte,0,,50
+28537,EDGT,small_airport,Bottenhorn Airport,50.79527664,8.458333015,1657,EU,DE,DE-HE,Bottenhorn,0,,50
+28491,EDXA,small_airport,Achmer Airport,52.37722015,7.913332939,177,EU,DE,DE-NI,Bramsche,0,,50
+29060,EDBE,small_airport,Brandenburg-Mühlenfeld Airport,52.4375,12.59000015,98,EU,DE,DE-BR,Brandenburg an der Havel,0,,50
+28534,EDWA,closed,Bordelum Airfield,54.627499,8.930278,3,EU,DE,DE-SH,Bredstedt,0,,50
+29061,EDBQ,small_airport,Bronkow Airport,51.67055511,13.96027756,423,EU,DE,DE-BR,Bronkow,0,,50
+28541,EDTC,small_airport,Bruchsal Airport,49.13499832,8.563611031,364,EU,DE,DE-BW,Bruchsal,0,,50
+43121,EDBG,small_airport,Burg Airport,52.2416687,11.85611057,174,EU,DE,DE-ST,Burg,0,,50
+29081,EDOM,small_airport,Klein Mühlingen Airport,51.94749832,11.76972198,171,EU,DE,DE-ST,Calbe,0,,50
+28542,EDVC,small_airport,Celle-Arloh Airport,52.68722153,10.11138916,207,EU,DE,DE-NI,Celle,0,,50
+29067,EDCJ,small_airport,Chemnitz/Jahnsdorf Airport,50.74750137,12.83749962,1198,EU,DE,DE-SN,Chemnitz,0,,50
+28744,EDWU,small_airport,Varrelbusch Airport,52.90833282,8.040555954,128,EU,DE,DE-NI,Cloppenburg,0,VAC,50
+28545,EDQY,small_airport,Coburg-Steinrücken Airport,50.230556,10.995833,1184,EU,DE,DE-BY,Coburg,0,,50
+28547,EDMD,small_airport,Dachau-Gröbenried Airport,48.228333,11.423056,1608,EU,DE,DE-BY,Dachau,0,,50
+2283,EDUW,small_airport,Tutow Airport,53.92194366,13.21888924,26,EU,DE,DE-MV,Demmin,0,,50
+2185,EDAD,small_airport,Dessau Airport,51.83169354,12.19096184,187,EU,DE,DE-ST,Dessau,0,,50
+29826,EDLJ,small_airport,Detmold Airport,51.94083405,8.904722214,650,EU,DE,DE-NW,Detmold,0,,50
+28551,EDPD,small_airport,Dingolfing Airport,48.65694427,12.50055599,1165,EU,DE,DE-BY,Dingolfing,0,,50
+28556,EDQR,small_airport,Ebern-Sendelbach Airport,50.03944397,10.82277775,827,EU,DE,DE-BY,Ebern,0,,50
+2186,EDAE,small_airport,Eisenhüttenstadt Airport,52.195856,14.58753,144,EU,DE,DE-BR,Eisenhüttenstadt,0,,50
+28560,EDNE,small_airport,Erbach Airport,48.34222031,9.916110992,1558,EU,DE,DE-BW,Erbach,0,,50
+2281,EDUS,small_airport,Finsterwalde/Schacksdorf Airport,51.607498,13.743611,384,EU,DE,DE-BR,Finsterwalde,0,,50
+29868,EDAS,small_airport,Flugplatz Finsterwalde/Heinrichsruh,51.634445,13.675556,384,EU,DE,DE-BR,Finsterwalde,0,,50
+29080,EDOH,small_airport,Langhennersdorf Airport,50.94833374,13.26166725,1266,EU,DE,DE-SN,Freiberg,0,,50
+28606,EDKH,small_airport,Hünsborn Airport,50.92861176,7.899167061,1306,EU,DE,DE-NW,Freudenberg,0,,50
+28564,EDMF,small_airport,Fürstenzell Airport,48.51805496,13.34583282,1345,EU,DE,DE-BY,Fürstenzell,0,,50
+28567,EDOC,small_airport,Gardelegen Airport,52.52722168,11.35138893,230,EU,DE,DE-ST,Gardelegen,0,,50
+28570,EDPT,small_airport,Gerstetten Airport,48.6202774,10.0583334,1975,EU,DE,DE-BW,Gerstetten,0,,50
+28573,EDGR,small_airport,Gießen-Reiskirchen Airport,50.56694412,8.869722366,702,EU,DE,DE-HE,Gießen,0,,50
+28736,EDQS,small_airport,Suhl-Goldlauter Airport,50.63194275,10.72749996,1923,EU,DE,DE-TH,Goldlauter-Heidersbach,0,,50
+28574,EDBX,small_airport,Görlitz Airport,51.15888977,14.95027828,778,EU,DE,DE-SN,Görlitz,0,,50
+28575,EDEG,small_airport,Gotha-Ost Airport,50.97000122,10.72777843,991,EU,DE,DE-TH,Gotha,0,,50
+28578,EDOT,small_airport,Greiz-Obergrochlitz Airport,50.64444351,12.17638874,1266,EU,DE,DE-TH,Greiz,0,,50
+28581,EDHB,small_airport,Grube Airport,54.2444458,11.0247221,7,EU,DE,DE-SH,Grube,0,,50
+28583,EDCU,small_airport,Güstrow Airport,53.80527878,12.23055553,46,EU,DE,DE-MV,Güstrow,0,,50
+28587,EDFJ,small_airport,Lager Hammelburg Airport,50.09860992,9.883610725,1132,EU,DE,DE-BY,Hammelburg,0,,50
+28589,EDHM,small_airport,Flugplatz Hartenholm,53.915001,10.035556,108,EU,DE,DE-SH,Hasenmoor,0,,50
+28685,EDQO,small_airport,Ottengrüner Heide Airport,50.22583389,11.73166656,1880,EU,DE,DE-BY,Helmbrechts,0,,50
+29946,EDEP,small_airport,Heppenheim Airport,49.62194443,8.624444008,361,EU,DE,DE-HE,Heppenheim,0,,50
+28598,EDFI,small_airport,Hirzenhain Airport,50.78777695,8.392778397,1706,EU,DE,DE-HE,Hirzenhain,0,,50
+28592,EDEH,small_airport,Herrenteich Airport,49.34500122,8.48777771,308,EU,DE,DE-BW,Hockenheim,0,,50
+28604,EDEM,small_airport,Mosenberg Airport,51.06277847,9.422222137,1296,EU,DE,DE-HE,Homburg,0,,50
+28605,EDRH,small_airport,Hoppstädten-Weiersbach Airport,49.61055756,7.186666965,1093,EU,DE,DE-RP,Hoppstädten,0,,50
+29401,ETNP,closed,Hopsten Air Base,52.33869934,7.541329861,423,EU,DE,DE-NW,Hopsten,0,,50
+28655,EDAT,small_airport,Nardt Airport,51.45111084,14.19944382,384,EU,DE,DE-SN,Hoyerswerda,0,,50
+28607,EDXU,small_airport,Hüttenbusch Airport,53.28666687,8.947221756,10,EU,DE,DE-NI,Hüttenbusch,0,,50
+28609,EDMI,small_airport,Illertissen Airfield,48.235,10.1377,1680,EU,DE,DE-BY,Illertissen,0,,50
+28610,EDGI,small_airport,Sonderlandeplatz Ingelfingen-Bühlhof,49.321667,9.663056,1375,EU,DE,DE-BW,Ingelfingen,0,,50
+2205,EDCM,small_airport,Kamenz Airport,51.29694366,14.12749958,495,EU,DE,DE-SN,Kamenz,0,,50
+28616,EDWK,small_airport,Karlshöfen Airport,53.33277893,9.02833271,20,EU,DE,DE-NI,Karlshöfen,0,,50
+28618,EDSK,small_airport,Kehl-Sundheim Airport,48.56111145,7.843332767,453,EU,DE,DE-BW,Kehl,0,,50
+28620,EDNK,small_airport,Kirchdorf/Inn Airport,48.23833466,12.9766674,1138,EU,DE,DE-BY,Kirchdorf am Inn,0,,50
+28622,EDCK,small_airport,Köthen Airport,51.7211113,11.95277786,305,EU,DE,DE-ST,Köthen,0,KOQ,50
+28626,EDXZ,small_airport,Kührstedt-Bederkesa Airport,53.5680542,8.78944397,26,EU,DE,DE-NI,Kührstedt,0,,50
+28631,EDEL,small_airport,Langenlonsheim Airport,49.90833282,7.907777786,295,EU,DE,DE-RP,Langenlonsheim,0,,50
+28633,EDHU,small_airport,Lauenbrück Airport,53.20750046,9.573332787,98,EU,DE,DE-NI,Lauenbrück,0,,50
+29096,EDXK,small_airport,Leck Airport,54.79000092,8.961388588,23,EU,DE,DE-SH,Leck,0,,50
+30984,EDSD,closed,Leipheim Air Base,48.439999,10.2356,1604,EU,DE,DE-BY,Leipheim,0,,50
+28636,EDWD,closed,Lemwerder Airport,53.144699,8.62444,20,EU,DE,DE-HB,Lemwerder,0,XLW,50
+28639,EDRI,small_airport,Linkenheim Airport,49.14166641,8.394721985,325,EU,DE,DE-BW,Linkenheim,0,,50
+43128,DE-0006,small_airport,Locktow Airport,52.11639023,12.70944405,213,EU,DE,DE-BR,Locktow,0,,50
+28640,EDHC,small_airport,Lüchow-Rehbeck Airport,53.01610947,11.14444447,49,EU,DE,DE-NI,Lüchow,0,,50
+29092,EDUO,small_airport,Oberrissdorf Airport,51.54249954,11.59583282,738,EU,DE,DE-ST,Lutherstadt Eisleben,0,,50
+28580,EDAG,small_airport,Großrückerswalde Airport,50.64416885,13.12638855,2198,EU,DE,DE-SN,Marienberg,0,,50
+28645,EDXG,small_airport,Melle-Grönegau Airport,52.20083237,8.380556107,236,EU,DE,DE-NI,Melle,0,,50
+28646,EDVG,closed,Flugplatz Mengeringhausen,51.376387,8.981111,1191,EU,DE,DE-HE,Mengeringhausen,0,,50
+2189,EDAM,small_airport,Merseburg Airport,51.3630556,11.9408333,341,EU,DE,DE-ST,Merseburg,0,,50
+28651,EDEQ,small_airport,Mühlhausen Airport,51.21305466,10.54861069,814,EU,DE,DE-TH,Mühlhausen,0,,50
+28658,EDNJ,small_airport,Neuburg-Egweil Airport,48.78194427,11.21527767,1345,EU,DE,DE-BY,Neuburg an der Donau,0,,50
+2257,EDON,small_airport,Neuhardenberg Airport,52.61305618,14.24277782,39,EU,DE,DE-BR,Neuhardenberg,0,,50
+28660,EDRD,small_airport,Neumagen-Dhron Airport,49.84305573,6.916110992,879,EU,DE,DE-RP,Neumagen,0,,50
+28728,EDAI,small_airport,Segeletz Airport,52.82666779,12.54194355,141,EU,DE,DE-BR,Neustadt,0,,50
+28663,EDAN,small_airport,Neustadt-Glewe Airport,53.35972214,11.61527824,115,EU,DE,DE-MV,Neustadt-Glewe,0,,50
+28666,EDXI,small_airport,Nienburg-Holzbalge Airport,52.70972061,9.162500381,82,EU,DE,DE-NI,Nienburg/Weser,0,,50
+28670,EDAO,small_airport,Nordhausen Airport,51.49305725,10.83333302,689,EU,DE,DE-TH,Nordhausen,0,,50
+28674,EDVN,small_airport,Northeim Airport,51.70639038,10.03972244,404,EU,DE,DE-NI,Northeim,0,,50
+28676,EDGJ,small_airport,Ochsenfurt Airport,49.67361069,10.0713892,814,EU,DE,DE-BY,Ochsenfurt,0,,50
+28680,EDWH,small_airport,Oldenburg-Hatten Airfield,53.06889,8.313611,26,EU,DE,DE-NI,Oldenburg,0,,50
+28682,EDOQ,small_airport,Oschatz Airport,51.29666519,13.0783329,502,EU,DE,DE-SN,Oschatz,0,,50
+28683,EDOL,small_airport,Oschersleben Glider Field,52.038055,11.205556,344,EU,DE,DE-ST,Oschersleben,0,,50
+28687,EDCV,small_airport,Pasewalk Airport,53.50527954,13.94833279,72,EU,DE,DE-MV,Pasewalk,0,,50
+29090,EDTQ,small_airport,Pattonville Airport,48.864166,9.224722,920,EU,DE,DE-BW,Pattonville,0,,50
+43123,EDHP,small_airport,Pellworm Field,54.5363884,8.680000305,3,EU,DE,DE-SH,Pellworm,0,,50
+28691,EDOS,small_airport,Pennewitz Airport,50.66944504,11.05055618,1506,EU,DE,DE-TH,Pennewitz,0,,50
+28579,EDPG,small_airport,Griesau Airport,48.95388794,12.42138863,1060,EU,DE,DE-BY,Pfatter,0,,50
+28693,EDTP,small_airport,Pfullendorf Airport,47.90888977,9.250555992,2303,EU,DE,DE-BW,Pfullendorf,0,,50
+28726,EDBP,small_airport,Pinnow Airport,53.61527634,11.56111145,144,EU,DE,DE-MV,Pinnow,0,,50
+28696,EDKP,small_airport,Plettenberg-Hüinghausen Airport,51.19194412,7.791110992,981,EU,DE,DE-NW,Plettenberg,0,,50
+28549,EDBD,closed,Emmel Airfield Dedelow Airport,53.356388,13.783611,213,EU,DE,DE-BR,Prenzlau,0,,50
+29062,EDBU,small_airport,Pritzwalk-Sommersberg Airport,53.18027878,12.18555641,289,EU,DE,DE-BR,Pritzwalk,0,,50
+28704,EDXE,small_airport,Rheine-Eschendorf Airport,52.276389,7.492778,131,EU,DE,DE-NW,Rheine,0,,50
+28593,EDTR,small_airport,Herten-Rheinfelden Airport,47.56027985,7.748332977,925,EU,DE,DE-BW,Rheinfelden,0,,50
+2191,EDAU,small_airport,Riesa-Göhlis Airport,51.29360962,13.35611057,322,EU,DE,DE-SN,Riesa,0,IES,50
+28706,EDAW,small_airport,Roitzschjora Airport,51.57777786,12.49444389,289,EU,DE,DE-SN,Roitzschjora,0,,50
+28698,EDCX,small_airport,Purkshof Airport,54.16166687,12.24861145,66,EU,DE,DE-MV,Rostock,0,,50
+28758,EDWM,small_airport,Weser-Wümme Airport,53.05389023,9.208610535,59,EU,DE,DE-NI,Rotenburg (Wümme),0,,50
+28710,EDOK,small_airport,Rudolstadt-Groschwitz Airport,50.73277664,11.23611069,1535,EU,DE,DE-TH,Rudolstadt,0,,50
+28712,EDCS,small_airport,Saarmund Airport,52.30833435,13.10055637,174,EU,DE,DE-BR,Saarmund,0,,50
+28713,EDVS,small_airport,Salzgitter-Drütte Airport,52.15444565,10.42666721,328,EU,DE,DE-NI,Salzgitter,0,,50
+28702,EDOX,small_airport,Renneritz Airport,51.5941658,12.23722172,308,EU,DE,DE-ST,Sandersdorf,0,,50
+28715,EDGQ,small_airport,Schameder Airport,51.00027847,8.307778358,1788,EU,DE,DE-NW,Schameder,0,,50
+29068,EDCL,small_airport,Klietz/Scharlibbe Airport,52.70944214,12.07333279,95,EU,DE,DE-ST,Scharlibbe,0,,50
+28716,EDXC,small_airport,Schleswig-Kropp Airport,54.42527771,9.541666985,52,EU,DE,DE-SH,Schleswig,0,,50
+29064,EDBY,small_airport,Schmoldow Airport,53.97222137,13.34361076,105,EU,DE,DE-MV,Schmoldow,0,,50
+28719,EDOZ,small_airport,Schönebeck-Zackmünde Airport,51.99666595,11.79083347,167,EU,DE,DE-ST,Schönebeck,0,,50
+28721,EDNS,small_airport,Schwabmünchen Airport,48.1791687,10.70277786,1804,EU,DE,DE-BY,Schwabmünchen,0,,50
+29084,EDPK,small_airport,Schönberg Airport,48.04777908,12.50055599,1946,EU,DE,DE-BY,Seebruck,0,,50
+28727,EDXS,small_airport,Seedorf Airport,53.33555603,9.259444237,72,EU,DE,DE-NI,Seedorf,0,,50
+28654,EDRN,small_airport,Nannhausen Airport,49.97027969,7.479166985,1224,EU,DE,DE-RP,Simmern,0,,50
+29066,EDCH,small_airport,Flugplatz Sprossen (Zeitz),51.043407,12.231895,673,EU,DE,DE-ST,Sprossen,0,,50
+28735,EDHS,small_airport,Stade Airport,53.56111145,9.499167442,62,EU,DE,DE-NI,Stade,0,,50
+29091,EDUA,small_airport,Stechow-Ferchesar Airport,52.65055466,12.48777771,148,EU,DE,DE-BR,Stechow-Ferchesar,0,,50
+29069,EDCT,small_airport,Taucha Airport,51.39500046,12.53694439,492,EU,DE,DE-SN,Taucha,0,,50
+2282,EDUT,closed,Templin/Groß Dölln Airport,53.02880096,13.51620007,174,EU,DE,DE-BR,Templin,0,,50
+28738,EDNU,small_airport,Thannhausen Airport,48.29000092,10.44194412,1611,EU,DE,DE-BY,Thannhausen,0,,50
+43061,DE-0002,small_airport,Flugplatz Torgau-Beilrode,51.571167,13.052167,269,EU,DE,DE-SN,Torgau,0,,50
+28492,EDHO,small_airport,Ahrenlohe Airport,53.69972229,9.740555763,33,EU,DE,DE-SH,Tornesch,0,,50
+28601,EDVL,small_airport,Hölleberg Airport,51.61083221,9.397500038,837,EU,DE,DE-HE,Trendelburg,0,,50
+28740,EDNT,small_airport,Treuchtlingen-Bubenheim Airport,48.99611282,10.88416672,1345,EU,DE,DE-BY,Treuchtlingen,0,,50
+2280,EDUF,small_airport,Falkenberg-Lönnewitz Airport,51.54777908,13.22805595,312,EU,DE,DE-BR,Uebigau-Wahrenbrück,0,,50
+28743,EDGU,small_airport,Unterschüpf Airport,49.51583481,9.669444084,1155,EU,DE,DE-BW,Unterschüpf,0,,50
+28745,EDWV,small_airport,Verden-Scharnhorst Airfield,52.965279,9.282778,144,EU,DE,DE-NI,Verden (Aller),0,,50
+28746,EDMP,small_airport,Vilsbiburg Airport,48.42610931,12.34527779,1450,EU,DE,DE-BY,Vilsbiburg,0,,50
+28748,EDHW,small_airport,Wahlstedt Airport,53.96944427,10.22166729,128,EU,DE,DE-SH,Wahlstedt,0,,50
+28752,EDOW,small_airport,Waren-Vielist Airport,53.56833267,12.65277767,282,EU,DE,DE-MV,Waren,0,,50
+28755,EDNW,small_airport,Weißenhorn Airport,48.28944397,10.14027786,1644,EU,DE,DE-BY,Weißenhorn,0,,50
+2202,EDBW,small_airport,Werneuchen Airport,52.63166809,13.76694393,262,EU,DE,DE-BR,Werneuchen,0,,50
+28757,EDLX,small_airport,Wesel-Römerwardt Airport,51.66277695,6.595832825,72,EU,DE,DE-NW,Wesel,0,,50
+28759,EDWX,small_airport,Westerstede-Felde Airport,53.28861237,7.93055582,30,EU,DE,DE-NI,Westerstede,0,,50
+43127,EDWP,small_airport,Wiefelstede/Conneforde Airport,53.32138824,8.073332787,33,EU,DE,DE-NI,Wiefelstede,0,,50
+28763,EDGW,small_airport,Wolfhagen „Graner Berg“ Airport,51.30722046,9.17527771,1027,EU,DE,DE-HE,Wolfhagen,0,,50
+28677,EDBO,small_airport,Oehna Airport,51.89972305,13.05222225,289,EU,DE,DE-BR,Zellendorf,0,,50
+29402,ETOA,heliport,Schweinfurt Army Heliport,50.04719925,10.17080021,738,EU,DE,DE-BY,USAG Schweinfurt,0,,25
+34923,GWW,closed,Gatow Airport,52.47439957,13.13809967,161,EU,DE,DE-BE,Spandau,0,GWW,1
+43695,DE-0007,closed,Wünsdorf Airfield,52.19800186,13.52700043,,EU,DE,DE-BR,,0,,0
+45042,EDOY,heliport,Ahrensfelde Heliport,52.601,13.576,,EU,DE,DE-BR,,0,,0
+315569,DE-0231,small_airport,Gronenfelde,52.3638889,14.4961111,,EU,DE,DE-BR,,0,,0
+316121,DE-0336,small_airport,"Sonderlandeplatz ""Altes Lager""",51.9961111,12.9838889,,EU,DE,DE-BR,,0,,0
+329299,DE-0423,heliport,Bad Saarow Hospital Heliport,52.284419,14.06036,,EU,DE,DE-BR,,0,,0
+314009,EDSP,small_airport,Poltringen Airport,48.546667,8.944722,1315,EU,DE,DE-BW,,0,,0
+315462,DE-0206,small_airport,Segelfluggelände Löchgau,49.0007392,9.0803846,,EU,DE,DE-BW,,0,,0
+315562,DE-0224,small_airport,Bad Waldsee-Reute,47.915,9.7102778,,EU,DE,DE-BW,,0,,0
+315563,DE-0225,small_airport,Berg-Ravensburg,47.8302778,9.54,,EU,DE,DE-BW,,0,,0
+315565,DE-0227,small_airport,Bösingen,48.2272222,8.5344444,,EU,DE,DE-BW,,0,,0
+315572,DE-0234,small_airport,Heiligenberg,47.8333333,9.302777,,EU,DE,DE-BW,,0,,0
+315576,DE-0237,small_airport,Landau-Ebenberg,49.1763889,8.1361111,525,EU,DE,DE-BW,,0,,0
+315582,DE-0241,small_airport,Wildberg,47.6002778,9.7419444,,EU,DE,DE-BW,,0,,0
+315950,DE-0295,small_airport,Segelflugplatz Müllheim,47.8241667,7.6397222,955,EU,DE,DE-BW,,0,,0
+316025,DE-0320,small_airport,Mülben Airfield,49.456,9.104,1740,EU,DE,DE-BW,,0,,0
+316029,DE-0323,small_airport,Neresheim Airfield,48.7417,10.3277,1781,EU,DE,DE-BW,,0,,0
+316138,DE-0342,small_airport,Sulz am Neckar UL,48.3458333,8.6377778,1772,EU,DE,DE-BW,,0,,0
+316183,DE-0345,small_airport,Gundelsheim UL,49.2908333,9.1725,817,EU,DE,DE-BW,,0,,0
+320896,DE-0376,small_airport,Mittelfischach UL,49.0352778,9.8725,1263,EU,DE,DE-BW,,0,,0
+320906,DE-0378,small_airport,Schlierstadt,49.4435541,9.3619443,,EU,DE,DE-BW,,0,,0
+321129,DE-0394,small_airport,Morbach UL,49.033717,9.592248,1624,EU,DE,DE-BW,,0,,0
+321215,DE-0398,small_airport,Neuenstadt am Kocher UL,49.2427777,9.3158333,617,EU,DE,DE-BW,,0,,0
+308179,DE-0042,small_airport,Wülzburg Airport,49.025851,11.018746,2027,EU,DE,DE-BY,,0,,0
+309385,DE-0077,small_airport,Büchig Airfield,50.4483,10.2526,1280,EU,DE,DE-BY,,0,,0
+314005,EDPI,small_airport,Moosburg auf der Kippe,48.45833333,11.94444444,,EU,DE,DE-BY,,0,,0
+315388,DE-0193,small_airport,Segelfluggelände Altenbachtal,49.92333333,9.157777778,,EU,DE,DE-BY,,0,,0
+315397,DE-0199,small_airport,Ippesheim UL,49.6097222,10.2258333,1000,EU,DE,DE-BY,,0,,0
+315496,DE-0221,small_airport,GSD Flugplatz,50.3283961,11.2823564,,EU,DE,DE-BY,,0,,0
+315560,DE-0222,small_airport,Altomünster ULM,48.3819444,11.2733333,,EU,DE,DE-BY,,0,,0
+315567,DE-0229,small_airport,Ehingen-Schlechtenfeld,48.2847222,9.6733333,1811,EU,DE,DE-BY,,0,,0
+315574,DE-0235,small_airport,Hohenthann,48.6644444,12.0536111,,EU,DE,DE-BY,,0,,0
+315575,DE-0236,small_airport,Irsingen-Hesselberg,49.0397222,10.5044444,,EU,DE,DE-BY,,0,,0
+315579,DE-0239,small_airport,Wasentegernbach,48.2777778,12.2222222,,EU,DE,DE-BY,,0,,0
+315725,DE-0254,small_airport,Arnschwang Ultraleicht,49.2730556,12.7805556,1355,EU,DE,DE-BY,,0,,0
+315726,DE-0255,small_airport,UL - Platz Erpetshof,49.6574167,12.2936667,,EU,DE,DE-BY,,0,,0
+315848,DE-0276,small_airport,Antdorf ULM,47.7594444,11.3036111,,EU,DE,DE-BY,,0,,0
+315952,DE-0296,small_airport,Peiting UL,47.7575,10.9038889,2457,EU,DE,DE-BY,,0,,0
+316048,DE-0330,small_airport,Burgebrach ULM,49.8377778,10.7805556,,EU,DE,DE-BY,,0,,0
+316050,DE-0331,small_airport,Forst-Sengenthal UL,49.2166667,11.4016667,,EU,DE,DE-BY,,0,,0
+316129,DE-0338,small_airport,Günching UL,49.2672222,11.572777,1799,EU,DE,DE-BY,,0,,0
+316137,DE-0341,small_airport,Sauldorf-Boll UL,47.9558333,9.0294444,2165,EU,DE,DE-BY,,0,,0
+316244,DE-0349,small_airport,Frankendorf UL,49.8365058,11.0890816,,EU,DE,DE-BY,,0,,0
+320931,DE-0382,small_airport,Unterschwaningen UL,49.086013,10.634766,1500,EU,DE,DE-BY,,0,,0
+314001,EDEN,small_airport,Bad Hersfeld Airport,50.84416667,9.707777778,,EU,DE,DE-HE,,0,,0
+315846,DE-0274,small_airport,Flugplatz Dauborn,50.3216667,8.1938889,,EU,DE,DE-HE,,0,,0
+315961,DE-0299,small_airport,Boberg Airfield,53.5147,10.1442,2,EU,DE,DE-HH,,0,,0
+314240,DE-0157,closed,Flugplatz Pütnitz-Damgarten,54.263124,12.439359,,EU,DE,DE-MV,,0,,0
+315564,DE-0226,small_airport,Bobzin,53.4861111,11.1683333,,EU,DE,DE-MV,,0,,0
+315728,DE-0256,small_airport,Perleberg,53.07222222,11.81972222,91,EU,DE,DE-MV,,0,,0
+315772,DE-0257,closed,Niepars,54.3045655,12.9105955,,EU,DE,DE-MV,,0,,0
+316189,DE-0348,small_airport,Roggenhagen UL,53.6702778,13.4005556,,EU,DE,DE-MV,,0,,0
+320760,DE-0365,small_airport,Sonderlandeplatz Teldau-Amholz,53.3288889,10.8336111,25,EU,DE,DE-MV,,0,,0
+329248,DE-0420,heliport,Greifswald Hospital Heliport,54.089077,13.408176,,EU,DE,DE-MV,,0,,0
+329249,DE-0421,heliport,Neustrelitz Heliport,53.3821208,13.0521218,,EU,DE,DE-MV,,0,,0
+329393,DE-0424,closed,Meyenburg Cropduster Airstrip,53.3101318,12.2514551,,EU,DE,DE-MV,,0,,0
+315240,DE-0190,small_airport,Stapelburg Airfield,51.9144,10.6844,728,EU,DE,DE-NI,,0,,0
+315391,DE-0195,small_airport,Flugplatz Dankern,52.8038889,7.1602778,48,EU,DE,DE-NI,,0,,0
+321210,DE-0397,small_airport,Deisterflieger UL,52.2941978,9.3773282,,EU,DE,DE-NI,,0,,0
+321284,DE-0402,small_airport,Donstorf UL,52.655,8.556944,128,EU,DE,DE-NI,,0,,0
+313649,DE-0150,small_airport,Eudenbach glider field,50.67333333,7.364166667,,EU,DE,DE-NW,,0,,0
+314002,EDLQ,small_airport,Beelen Airport,51.93166667,8.081666667,,EU,DE,DE-NW,,0,,0
+315394,DE-0196,small_airport,Erkelenz-Kückhoven,51.0641667,6.3602778,281,EU,DE,DE-NW,,0,,0
+315398,DE-0200,small_airport,Kerken UL,51.4388889,6.4455556,114,EU,DE,DE-NW,,0,,0
+315401,DE-0201,small_airport,Vettweiß-Soller,50.7475,6.5669444,525,EU,DE,DE-NW,,0,,0
+315485,DE-0217,heliport,"Agrarflug ""HeliLift""",51.7815448,7.9069549,,EU,DE,DE-NW,,0,,0
+315937,DE-0285,small_airport,UL-Flugplatz Brakel,51.7372222,9.2011111,,EU,DE,DE-NW,,0,,0
+315940,DE-0287,small_airport,UL-Flugplatz Drensteinfurt,51.7672222,7.7469444,,EU,DE,DE-NW,,0,,0
+320897,DE-0377,small_airport,Waltrop UL,51.6408333,7.4255556,161,EU,DE,DE-NW,,0,,0
+321055,DE-0389,small_airport,Metelen UL,52.1586111,7.2402778,160,EU,DE,DE-NW,,0,,0
+44592,DE-0023,heliport,Bernkastel-Kues Cusanus Hospital Helipad,49.91569901,7.062300205,,EU,DE,DE-RP,,0,,0
+315389,DE-0194,small_airport,Bell-Hundheim,50.02888889,7.422777778,1434,EU,DE,DE-RP,,0,,0
+315843,DE-0273,small_airport,Flugplatz Daun,50.1758333,6.8577778,,EU,DE,DE-RP,,0,,0
+315939,DE-0286,small_airport,UL-Fluglatz Ernzen,49.8288889,6.4355556,,EU,DE,DE-RP,,0,,0
+316186,DE-0346,small_airport,UL-Flugplatz Hinterweiler,50.2463889,6.7561111,1996,EU,DE,DE-RP,,0,,0
+314006,EDRX,small_airport,Neunkirchen-Bexbach Airport,49.34,7.253333333,,EU,DE,DE-SL,,0,,0
+315681,DE-0249,small_airport,Segelflugplatz Konz-Könen,49.6758156,6.5439529,,EU,DE,DE-SL,,0,,0
+320854,DE-0370,small_airport,Schwarzenbach-Sötern UL,49.5919444,7.0313889,1509,EU,DE,DE-SL,,0,,0
+315949,DE-0294,small_airport,Zschorna,51.3863889,12.8202778,,EU,DE,DE-SN,,0,,0
+315566,DE-0228,small_airport,dingelstedt,51.9863889,10.9686111,,EU,DE,DE-ST,,0,,0
+316139,DE-0343,small_airport,Hasselfelde UL,51.7044444,10.8752778,1644,EU,DE,DE-ST,,0,,0
+321216,DE-0399,small_airport,Flugplatz Hoym,51.7780554,11.2855555,472,EU,DE,DE-ST,,0,,0
+315396,DE-0198,small_airport,Dolmar,50.6125,10.4727778,1673,EU,DE,DE-TH,,0,,0
+315561,DE-0223,small_airport,Bad Bibra,51.2016667,11.4972222,,EU,DE,DE-TH,,0,,0
+315570,DE-0232,small_airport,Göpfersdorf,49.8877778,10.3752778,,EU,DE,DE-TH,,0,,0
+315953,DE-0297,small_airport,Westhausen UL,50.3036111,10.6805556,,EU,DE,DE-TH,,0,,0
+316126,DE-0337,small_airport,Crawinkel,50.7783333,10.8169444,1549,EU,DE,DE-TH,,0,,0
+316132,DE-0339,small_airport,Hartenstein-Thierfeld UL,50.6761111,12.6816667,1361,EU,DE,DE-TH,,0,,0
+316136,DE-0340,small_airport,UL-Gelaende Pretzschendorf,50.8833333,13.5316667,1610,EU,DE,DE-TH,,0,,0
+320860,DE-0372,small_airport,Altenbeuthen UL,50.5930556,11.5922222,1715,EU,DE,DE-TH,,0,,0
+321127,DE-0392,small_airport,Weidberg/Kaltenwestheim UL,50.6088889,10.0880556,2034,EU,DE,DE-TH,,0,,0
+325169,DE-0411,small_airport,UL-Flugplatz Hohenstein,51.5336866,10.578724,,EU,DE,DE-TH,,0,,0
+320213,DE-0353,small_airport,UL-Flugplatz Beedeln,51.0072346,12.8145434,,EU,DE,DE-U-A,,0,,0
+320789,DE-0367,small_airport,Segelflugplatz Iserlohn-Sümmern,51.4363889,7.6997222,591,EU,DE,DE-U-A,,0,,0
+321125,DE-0391,small_airport,Malsch-Ettlingen UL,48.9016667,8.3283333,387,EU,DE,DE-U-A,,0,,0
+321128,DE-0393,small_airport,Dörzbach-Hohebach UL,49.3502778,9.7144444,1320,EU,DE,DE-U-A,,0,,0
+329581,DE-0425,small_airport,[Duplicate] Illertissen see EDMI - ED-0425 location moved out-of-the way,89.5,0.0001,,EU,DE,DE-U-A,,0,,0
+315135,DE-0184,small_airport,Stolberg-Diepenlinchen Airfield,50.7704,6.2818,875,EU,DE,DE-NW,Aachen,0,,0
+329257,DE-0422,heliport,Aachen Hospital Heliport,50.7758285,6.0442868,,EU,DE,DE-NW,Aachen,0,,0
+314456,DE-0167,small_airport,Michelbach Airfield,50.2317,8.077,1020,EU,DE,DE-HE,Aarbergen,0,,0
+310074,DE-0100,small_airport,Großes Moor Airfield,52.5359,10.02,143,EU,DE,DE-NI,Adelheidsdorf,0,,0
+309957,DE-0094,small_airport,Agathazell Airfield,47.553,10.2731,2383,EU,DE,DE-BY,Agathazell,0,,0
+319948,EDHA,small_airport,Ahlhorn,52.888333,8.233333,161,EU,DE,DE-NI,Ahlhorn,0,,0
+308153,DE-0039,small_airport,Aichach Airport,48.471798,11.134349,1445,EU,DE,DE-BY,Aichach,0,,0
+308211,DE-0050,small_airport,Alsfeld Airfield,50.750565,9.248615,970,EU,DE,DE-HE,Alsfeld,0,,0
+308215,DE-0051,small_airport,Altdorf-Hagenhausen Airfield,49.387209,11.422145,1770,EU,DE,DE-BY,Altdorf near Nuremberg,0,,0
+316140,DE-0344,small_airport,Göpfersdorf Airfield,50.9137,12.6123,960,EU,DE,DE-TH,Altenburg,0,,0
+308209,DE-0049,small_airport,Altfeld Airport,49.83186516,9.537291527,1160,EU,DE,DE-BY,Altfeld,0,,0
+308330,DE-0061,small_airport,Altötting Airfield,48.2162,12.6484,1311,EU,DE,DE-BY,Altötting,0,,0
+308487,DE-0063,small_airport,Rammertshof Amberg Airfield,49.4394,11.8107,1280,EU,DE,DE-BY,Amberg,0,,0
+312208,DE-0135,small_airport,Amöneburg Airfield,50.78985,8.90635,790,EU,DE,DE-HE,Amöneburg,0,,0
+310655,DE-0107,small_airport,Gronau Airfield,52.0578,9.8104,480,EU,DE,DE-NI,An den sieben Bergen,0,,0
+308407,DE-0062,small_airport,Antersberg Airfield,47.9629,11.9955,1605,EU,DE,DE-BY,Antersberg,0,,0
+309907,DE-0091,small_airport,Oeventrop Airfield,51.3961,8.1445,718,EU,DE,DE-NW,Arnsberg,0,,0
+314555,DE-0171,small_airport,Arnsberg-Ruhrwiese Airfield,51.3878,8.0605,611,EU,DE,DE-NW,Arnsberg,0,,0
+312209,DE-0136,small_airport,Aßlarer Hütte Airfield,50.5999,8.4439,753,EU,DE,DE-HE,Aßlar,0,,0
+315304,DE-0191,small_airport,Aukrug Airfield,54.0647,9.7983,50,EU,DE,DE-SH,Aukrug,0,,0
+310657,DE-0109,small_airport,Brockzetel Airfield,53.4814,7.6511,34,EU,DE,DE-NI,Aurich,0,,0
+315585,DE-0243,small_airport,Völkleshofen Airfield,49.0094,9.3542,1305,EU,DE,DE-BW,Backnang,0,,0
+308606,EDHX,heliport,Bad Bramstedt Heliport,53.9428,9.9055,118,EU,DE,DE-SH,Bad Bramstedt,0,,0
+315787,DE-0260,small_airport,Mönchsheide Airfield,50.5082,7.2556,690,EU,DE,DE-RP,Bad Breisig,0,,0
+308578,DE-0064,small_airport,Oberleichtersbach Airfield,50.271942,9.823622,1330,EU,DE,DE-BY,Bad Brückenau,0,,0
+45044,DE-0001,heliport,Klinikum am Plattenwald Helipad,49.212856,9.236728549,,EU,DE,DE-BW,Bad Friedrichshall,0,,0
+315963,DE-0301,small_airport,Degmarn Airfield,49.2579,9.2745,530,EU,DE,DE-BW,Bad Friedrichshall,0,,0
+314151,DE-0154,small_airport,Langenberg Airfield,50.7968,9.5631,1197,EU,DE,DE-HE,Bad Hersfeld,0,,0
+315797,DE-0264,heliport,St Elisabeth Hospital Helipad,50.1902,10.0827,925,EU,DE,DE-BY,Bad Kissingen,0,,0
+308980,DE-0071,small_airport,Bad Königshofen Airfield,50.2876,10.4225,1030,EU,DE,DE-BY,Bad Königshofen,0,,0
+315891,DE-0280,small_airport,Bad Marienberg Airfield,50.6611,8.0276,1792,EU,DE,DE-RP,Bad Marienberg,0,,0
+315490,DE-0219,small_airport,Vinsebeck Airfield,51.8453,9.0141,850,EU,DE,DE-NW,Bad Meinberg,0,,0
+45225,DE-0031,heliport,Bad Reichenhall Hospital Helipad,47.72849223,12.87248433,,EU,DE,DE-BY,Bad Reichenhal,0,,0
+309639,DE-0086,small_airport,Greiling Airfield,47.7654,11.59546,2357,EU,DE,DE-BY,Bad Tölz,0,,0
+315935,DE-0283,small_airport,"UL-Flugplatz ""Auf der Schaufel""",51.0938889,9.1483333,,EU,DE,DE-NW,Bad Wildungen,0,,0
+310658,DE-0110,small_airport,Bad Zwischenahn - Rostrup Airfield,53.2102,7.9887,33,EU,DE,DE-NI,Bad Zwischenahn,0,,0
+315936,DE-0284,small_airport,"Sonderlandeplatz ""Roßberg""",49.6422222,7.6838889,,EU,DE,DE-RP,Becherbach,0,,0
+308983,DE-0073,small_airport,Benediktbeuern Airfield,47.71564,11.3914,2000,EU,DE,DE-BY,Benediktbeuern,0,,0
+312210,DE-0137,small_airport,Bensheimer Stadtwiesen Airfield,49.6926,8.5819,314,EU,DE,DE-HE,Bensheim,0,,0
+45226,DE-0032,heliport,Berchtesgaden Hospital Helipad,47.64034523,13.00605297,,EU,DE,DE-BY,Berchtesgaden,0,,0
+314556,DE-0172,small_airport,Bergheim Airfield,50.9772,6.6085,226,EU,DE,DE-NW,Bergheim,0,,0
+44460,DE-0008,closed,Steinstücken Helipad,52.39020157,13.12860012,,EU,DE,DE-BE,Berlin,0,,0
+44468,DE-0013,closed,Johannisthal Airfield,52.43799973,13.52499962,,EU,DE,DE-BE,Berlin,0,,0
+315786,DE-0259,small_airport,Neuruppin Airfield,52.94127,12.78,140,EU,DE,DE-BR,Berlin,0,,0
+45185,DE-0029,small_airport,Berlinchen Airfield,53.22517752,12.56552696,,EU,DE,DE-BR,Berlinchen,0,,0
+315932,DE-0282,small_airport,Berneck Airfield,48.5737,9.7291,2480,EU,DE,DE-BW,Berneck,0,,0
+44590,DE-0021,heliport,Biblis Nuclear Power Plant Helipad,49.70750046,8.417499542,,EU,DE,DE-HE,Biblis,0,,0
+320993,DE-0385,small_airport,Fresh Breeze UL,52.518069,9.732115,187,EU,DE,DE-NI,Bissendorf,0,,0
+323838,DE-0351,balloonport,Balloonport Bitterfeld,51.62455,12.29391,,EU,DE,DE-ST,Bitterfeld,0,,0
+316031,DE-0324,small_airport,UL-Flugplatz Seißen,48.413662,9.763357,,EU,DE,DE-BW,Blaubeuren,0,,0
+311010,DE-0113,small_airport,Blexen Airfield,53.5383,8.5388,4,EU,DE,DE-NI,Blexen,0,,0
+315962,DE-0300,small_airport,Bohlhof Airfield,47.6509,8.3867,1885,EU,DE,DE-BW,Bohlhof,0,,0
+321500,DE-0407,small_airport,Gemen-Kirchspiel UL,51.8788888,6.8552777,164,EU,DE,DE-NW,Borken,0,,0
+308065,DE-0350,closed,Brandis Airbase,51.328383,12.656439,525,EU,DE,DE-SN,Brandis,0,,0
+309024,DE-0074,small_airport,Brannenburg Airfield,47.74075,12.11548,1539,EU,DE,DE-BY,Brannenburg,0,,0
+312570,DE-0139,small_airport,Braunfels Airfield,50.5255,8.393,800,EU,DE,DE-HE,Braunfels,0,,0
+320937,DE-0383,small_airport,UL-Gelände Bredstedt,54.633425,8.985745,92,EU,DE,DE-SH,Bredstedt,0,,0
+309999,DE-0098,small_airport,Große Höhe Airfield,52.9861,8.5722,70,EU,DE,DE-NI,Bremen,0,,0
+311721,DE-0128,small_airport,Tarmstedt Airfield,53.2514,9.1084,140,EU,DE,DE-NI,Bremen,0,,0
+310075,DE-0101,small_airport,Hellenhagen Airfield,52.02624,9.5628,625,EU,DE,DE-NI,Bremke,0,,0
+308946,WID,closed,RAF Wildenrath,51.1141,6.2151,285,EU,DE,DE-NW,British Armed Forces,0,WID,0
+327063,DE-0414,small_airport,Agrarflugplatz Brodau,51.4987,12.32983,,EU,DE,DE-SN,Brodau,0,,0
+311550,DE-0123,small_airport,Bückeburg-Weinberg Airfield,52.2511,9.0146,256,EU,DE,DE-NW,Bückeburg,0,,0
+314692,DE-0175,small_airport,Büren Airfield,51.5427,8.5808,920,EU,DE,DE-NW,Büren,0,,0
+320635,DE-0358,small_airport,Flugplatz Burgheim,48.692206,11.033122,1332,EU,DE,DE-BY,Burgheim LKrs Neuburg,0,,0
+320758,DE-0363,small_airport,UL-Gelände Bürstadt,49.6558333,8.4747222,230,EU,DE,DE-HE,Bürstadt,0,,0
+314242,DE-0159,small_airport,Pfingstweide Airfield,50.4356,8.6212,1160,EU,DE,DE-HE,Butzbach,0,,0
+311069,DE-0118,small_airport,Scheuen Airfield,52.6693,10.088,190,EU,DE,DE-NI,Celle,0,,0
+308718,ETJB,heliport,Schonewald CRC Helipad,53.509955,13.43567,271,EU,DE,DE-MV,Cölpin,0,,0
+315475,DE-0213,small_airport,Weipertshofen Airfield,49.0867,10.1239,1455,EU,DE,DE-BW,Crailsheim,0,,0
+320759,DE-0364,small_airport,Flugplatz Crussow,53.0130556,14.071111,180,EU,DE,DE-MV,Crussow,0,,0
+312569,DE-0138,small_airport,Dehausen Airfield,51.4635,9.04925,1003,EU,DE,DE-HE,Dehausen,0,,0
+315577,DE-0238,small_airport,Klippeneck Airfield,48.1075,8.7627778,3215,EU,DE,DE-BW,Denkingen,0,,0
+315491,DE-0220,small_airport,Stillberghof Airfield,48.7309,10.834,1680,EU,DE,DE-BY,Donauwörth,0,,0
+316349,EDPR,small_airport,Donauwörth Heliport,48.7075,10.769444,,EU,DE,DE-BY,Donauwörth,0,,0
+321056,DE-0390,small_airport,Dorstadt UL,52.1,10.5513889,351,EU,DE,DE-NI,Dorstadt,0,,0
+314766,DE-0176,small_airport,Dorsten Airfield,51.6621,6.9856,109,EU,DE,DE-NW,Dorsten,0,,0
+315180,DE-0188,small_airport,Kamen-Heeren Airfield,51.5904,7.7091,205,EU,DE,DE-NW,Dortmund,0,,0
+316026,DE-0321,small_airport,Münsingen-Eisberg Airfield,48.4093,9.4425,2385,EU,DE,DE-BW,Dottingen,0,,0
+44584,DE-0015,heliport,Dresden Friedrichstadt Hospital Helipad,51.05810165,13.71899986,,EU,DE,DE-SN,Dresden,0,,0
+308807,DE-0067,small_airport,Dürabuch Glider Airfield,48.26225,11.2094,1770,EU,DE,DE-BY,Dürabuch,0,,0
+314768,DE-0178,small_airport,Düsseldorf-Wolfsaap Airfield,51.2649,6.8539,375,EU,DE,DE-NW,Düsseldorf,0,,0
+44463,DE-0011,closed,Strausberg Helipad,52.52489853,13.8302002,,EU,DE,DE-BR,Eggersdorf,0,,0
+320913,DE-0380,small_airport,Flugplatz Eimbeckhausen,52.225,9.425,538,EU,DE,DE-NI,Eimbeckhausen,0,,0
+314868,DE-0179,small_airport,Emmerich Airfield,51.8221,6.2745,44,EU,DE,DE-NW,Emmerich,0,,0
+308808,DE-0068,small_airport,Erbendorf Airfield,49.8438,12.06714,1640,EU,DE,DE-BY,Erbendorf,0,,0
+44585,DE-0016,heliport,Erlangen Ebrardstrasse Helipad,49.60200119,11.02250004,,EU,DE,DE-BY,Erlangen,0,,0
+309026,DE-0076,closed,Eschenlohe Airfield,47.6235,11.18388,2064,EU,DE,DE-BY,Eschenlohe,0,,0
+314411,DE-0165,small_airport,Stauffenbühl Airfield,51.1592,10.0472,895,EU,DE,DE-HE,Eschwege,0,,0
+314412,DE-0166,closed,Eschwege Airfield,51.197,10.025,522,EU,DE,DE-HE,Eschwege,0,,0
+315886,DE-0279,small_airport,Esslingen-Jägerhaus Airfield,48.762222,9.333889,1625,EU,DE,DE-BW,Esslingen,0,,0
+320994,DE-0386,small_airport,Everswinkel UL,51.8844444,7.8380556,194,EU,DE,DE-NW,Everswinkel,0,,0
+320702,DE-0359,small_airport,Sonderlandeplatz Fehmarn-Neujellingsdorf,54.4559418,11.1096123,,EU,DE,DE-SH,Fehmarn,0,,0
+315805,DE-0271,small_airport,Fischbek Airfield,53.4561,9.8317,217,EU,DE,DE-MV,Fischbek,0,,0
+308236,DE-0054,small_airport,Dobenreuth Airfield,49.697,11.1418,1110,EU,DE,DE-BY,Forchheim,0,,0
+44587,DE-0018,heliport,Frankfurt am Main Accident Hospital Roof Helipad,50.145401,8.710300446,,EU,DE,DE-HE,Frankfurt am Main,0,,0
+44588,DE-0019,heliport,Frankfurt am Main Accident Hospital Ground Helipad,50.14410019,8.709600449,,EU,DE,DE-HE,Frankfurt am Main,0,,0
+44589,DE-0020,heliport,Industriepark Hoechst Helipad,50.08929825,8.538100243,,EU,DE,DE-HE,Frankfurt am Main,0,,0
+316017,DE-0312,small_airport,Kirchzarten Airfield,47.9509,7.9558,1385,EU,DE,DE-BR,Freiburg,0,,0
+45227,DE-0033,heliport,Freilassing Hospital Helipad,47.8484972,12.97974318,,EU,DE,DE-BY,Freilassing,0,,0
+316027,DE-0322,small_airport,Musbach Airfield,48.5027,8.4786,2295,EU,DE,DE-BW,Freudenstadt,0,,0
+313878,DE-0152,small_airport,Johannisau Airfield,50.5368,9.6621,850,EU,DE,DE-HE,Fulda,0,,0
+311073,EDVZ,heliport,Fuldatal Federal Police Heliport,51.359576,9.5028,694,EU,DE,DE-HE,Fuldatal,0,,0
+309513,DE-0080,small_airport,Fürth-Seckendorf Airfield,49.48152,10.8588,1058,EU,DE,DE-BY,Fürth,0,,0
+309514,DE-0081,small_airport,Füssen Glider Airfield,47.58306,10.6909,2589,EU,DE,DE-BY,Füssen,0,,0
+309619,DE-0082,small_airport,Gammelsdorf Glider Field,48.5679,11.9325,1630,EU,DE,DE-BY,Gammelsdorf,0,,0
+300112,ET31,heliport,Sheridan Barracks Landing Area,47.48277778,11.06694444,2362,EU,DE,DE-BY,Garmisch-Partenkirchen,0,,0
+312947,DE-0144,small_airport,Gedern Airfield,50.4326,9.195,1220,EU,DE,DE-HE,Gedern,0,,0
+320995,DE-0387,small_airport,Geilsheim UL,49.0244444,10.6591667,1565,EU,DE,DE-BY,Geilsheim,0,,0
+315588,DE-0246,small_airport,Urspring Airfield,48.553,9.9038,2100,EU,DE,DE-BW,Geislingen,0,,0
+309620,DE-0083,small_airport,Geitau Airfield,47.6795,11.9622,2730,EU,DE,DE-BY,Geitau,0,,0
+321578,DE-0408,small_airport,Schwaigern/Stetten UL,49.1416666,8.9874999,705,EU,DE,DE-BW,Gemmingen,0,,0
+322105,DE-0409,small_airport,Gersdorf UL,49.0319443,11.141111,1804,EU,DE,DE-BY,Gersdorf,0,,0
+312948,DE-0145,small_airport,Gießen Airfield,50.6042,8.7286,540,EU,DE,DE-HE,Gießen,0,,0
+315477,DE-0214,heliport,Gießen University Hospital Helipad,50.5759,8.6671,712,EU,DE,DE-HE,Gießen,0,,0
+311072,EDVX,heliport,Gifhorn Federal Police Heliport,52.495184,10.510287,207,EU,DE,DE-NI,Gifhorn,0,,0
+311777,DE-0130,small_airport,Ummern Airfield,52.6204,10.4092,237,EU,DE,DE-NI,Gifhorn,0,,0
+316033,DE-0326,small_airport,Oppingen-Au Airfield,48.5566,9.8219,2238,EU,DE,DE-BR,Gingen/Fils,0,,0
+315964,EDSO,small_airport,Gruibingen-Nortel Airfield,48.6212,9.6557,2318,EU,DE,DE-BW,Göppingen,0,,0
+311548,DE-0122,small_airport,Bollrich Airfield,51.9058,10.4619,945,EU,DE,DE-NI,Goslar,0,,0
+326221,DE-0412,small_airport,UL Flugfeld Gössenheim,50.028245,9.772232,738,EU,DE,DE-BY,Gössenheim,0,,0
+308861,EDJG,small_airport,Grabenstätt Airfield,47.852757,12.55037,1765,EU,DE,DE-BY,Grabenstätt,0,,0
+300109,DE-0036,heliport,Grafenwöhr Medevac Helipad,49.70805556,11.91611111,1354,EU,DE,DE-BY,Grafenwöhr,0,,0
+314869,DE-0180,small_airport,Gustorfer Höhe Airfield,51.0767,6.5475,290,EU,DE,DE-NW,Grevenbroich,0,,0
+313148,DE-0146,small_airport,Edermünde-Grifte Airfield,51.221,9.4475,665,EU,DE,DE-HE,Grifte,0,,0
+315571,DE-0233,small_airport,Grünstadt Airfield,49.5855556,8.1388889,1039,EU,DE,DE-RP,Grünstadt,0,,0
+320889,DE-0373,heliport,Günzburg Hospital Helipad,48.4581,10.291601,1554,EU,DE,DE-BY,Günzburg,0,,0
+320890,DE-0374,heliport,Legoland Helipad,48.4259,10.298503,1565,EU,DE,DE-BY,Günzburg,0,,0
+320747,DE-0362,small_airport,Hof Wahl,51.3066667,7.425,1280,EU,DE,DE-NW,Hagen,0,,0
+314870,DE-0181,closed,Halver Airfield,51.1741,7.5045,1383,EU,DE,DE-NW,Halver,0,,0
+315775,DE-0258,small_airport,Neu-Gülze Airfield,53.381,10.804,38,EU,DE,DE-MV,Hamburg,0,,0
+311009,DE-0112,small_airport,Bisperode Airfield,52.0788,9.476,635,EU,DE,DE-NI,Hamelin,0,,0
+311066,DE-0115,small_airport,Oppershausen Airfield,52.5955,10.2235,147,EU,DE,DE-NI,Hanover Aero Club,0,,0
+315990,DE-0303,small_airport,Haßloch Airfield,49.3553,8.2902,361,EU,DE,DE-RP,Haßloch,0,,0
+310656,DE-0108,small_airport,Aue bei Hattorf Airfield,51.6334,10.2544,618,EU,DE,DE-NI,Hattorf,0,,0
+315991,DE-0304,small_airport,Hayingen Airfield,48.2848,9.4657,2328,EU,DE,DE-BW,Hayingen,0,,0
+316021,DE-0316,small_airport,Malsch Airfield,49.2375,8.6783,447,EU,DE,DE-BW,Heidelberg,0,,0
+329130,DE-0419,closed,Heidelberg Army Helicopter Base,49.392397,8.651935,,EU,DE,DE-BW,Heidelberg,0,HDB,0
+316052,DE-0333,small_airport,Schäfhalde Airfield,48.6922,10.0995,2075,EU,DE,DE-BW,Heidenheim,0,,0
+308604,EDHD,small_airport,Heilbad Heiligenstadt Airfield,51.40755,10.1453,1195,EU,DE,DE-TH,Heilbad Heiligenstadt,0,,0
+315481,DE-0216,heliport,Heilbronn Hospital Helipad,49.1532,9.1918,664,EU,DE,DE-BW,Heilbronn,0,,0
+316003,DE-0305,small_airport,Heilbronn-Böckingen Airfield,49.1223,9.1815,525,EU,DE,DE-BW,Heilbronn,0,,0
+315456,DE-0204,small_airport,Meiersberg Airfield,51.2996,6.9565,520,EU,DE,DE-NW,Heiligenhaus,0,,0
+307050,DE-0035,heliport,Helgoland Heliport,54.17530833,7.890027778,7,EU,DE,DE-SH,Heligoland,0,,0
+310077,DE-0103,small_airport,Rote Wiese Glider Field,52.2336,10.9809,360,EU,DE,DE-NI,Helmstedt,0,,0
+309980,DE-0095,small_airport,Alte Ems Airfield,53.030765,7.305385,7,EU,DE,DE-NI,Herbrum,0,,0
+309874,DE-0088,small_airport,Hersbruck Airfield,49.50753,11.4438,1105,EU,DE,DE-BY,Hersbruck,0,,0
+313149,DE-0147,small_airport,Hessisch Lichtenau Airfield,51.1888,9.7434,1350,EU,DE,DE-HE,Hessisch Lichtenau,0,,0
+309875,DE-0089,small_airport,Hienheim Airfield,48.87811,11.76034,1320,EU,DE,DE-BY,Hienheim,0,,0
+309406,DE-0079,small_airport,Friesner Warte Airfield,49.8364,11.04644,1702,EU,DE,DE-BY,Hirschaid,0,,0
+312571,DE-0140,small_airport,"""Der Dingel"" Airfield",51.536,9.3805,718,EU,DE,DE-HE,Hofgeismar,0,,0
+300114,ET39,heliport,Hohenfels Hospital Army Helipad,49.22416667,11.83472222,1432,EU,DE,DE-BY,Hohenfels,0,,0
+316019,DE-0314,small_airport,Leuzendorf Glider Field,49.3518,10.0757,1540,EU,DE,DE-BW,Hohenlohekreis,0,,0
+309873,DE-0087,small_airport,Hallertau Airfield,48.64972,11.59687,1266,EU,DE,DE-BY,Holledau,0,,0
+310076,DE-0102,small_airport,Hellingst Airfield,53.3751,8.8498,73,EU,DE,DE-NI,Holste,0,,0
+310080,DE-0105,small_airport,Holtorfsloh Airfield,53.3222,10.0743,181,EU,DE,DE-NI,Holtorfsloh,0,,0
+314150,DE-0153,small_airport,Homberg/Ohm Airfield,50.7465,9.0192,1157,EU,DE,DE-HE,Homberg,0,,0
+313153,DE-0148,small_airport,Hörbach Airfield,50.6683,8.2604,1070,EU,DE,DE-HE,Hörbach,0,,0
+310081,DE-0106,small_airport,Hoya Airfield,52.8119,9.1638,55,EU,DE,DE-NI,Hoya,0,,0
+316012,DE-0309,small_airport,Hülben Airfield,48.5293,9.398,2385,EU,DE,DE-BW,Hülben,0,,0
+314243,DE-0160,small_airport,Plätzer Airfield,50.7094,9.7391,1166,EU,DE,DE-HE,Hünfeld,0,,0
+314767,DE-0177,small_airport,Düren-Hürtgenwald Airfield,50.6937,6.4185,1194,EU,DE,DE-NW,Hürtgenwald,0,,0
+321449,DE-0406,small_airport,Drachenflugplatz Welver UL,51.6180554,7.9352777,325,EU,DE,DE-NW,Illingen-Welver,0,,0
+315942,DE-0289,small_airport,UL-Flugplatz Imsweiler-Donnersberg,49.6061111,7.7936111,950,EU,DE,DE-NW,Imsweiler,0,,0
+309402,ETT1,small_airport,Etting-Adelmannsberg Glider Field,48.81028,11.42096,1253,EU,DE,DE-BY,Ingolstadt,0,,0
+316016,DE-0311,small_airport,Isny Glider Field,47.7002,10.0207,2260,EU,DE,DE-BW,Isny im Allgäu,0,,0
+311065,EDVT,small_airport,Ithwiesen Airfield,51.952,9.662,1264,EU,DE,DE-NI,Ith,0,,0
+300113,ETED,heliport,Kaiserslautern Depot Army Heliport,49.44777778,7.839722222,950,EU,DE,DE-RP,Kaiserslautern,0,,0
+320634,DE-0357,small_airport,UL-Flugplatz Brauna,51.283611,14.061667,587,EU,DE,DE-SN,Kamenz,0,,0
+308315,DE-0060,small_airport,Karlstadt-Saupurzel Airport,49.971234,9.790516,805,EU,DE,DE-BY,Karlstadt,0,,0
+320705,DE-0360,small_airport,Katensen private UL strip,52.4411581,10.1661266,,EU,DE,DE-NI,Katensen,0,,0
+308289,DE-0059,small_airport,Kaufbeuren Air Base,47.8617,10.6143,2400,EU,DE,DE-BY,Kaufbeuren,0,,0
+315584,DE-0242,small_airport,Kell Airfield,49.6216667,6.8402778,1840,EU,DE,DE-RP,Kell am See,0,,0
+320941,DE-0384,heliport,Kemnitz Heliport,54.0824235,13.5361492,,EU,DE,DE-MV,Kemnitz,0,,0
+315137,DE-0186,closed,Hilden-Kesselweier Airfield,51.1873,6.9746,300,EU,DE,DE-NW,Kesselweier,0,,0
+315796,DE-0263,small_airport,Kirn Airfield,49.773,7.5217,1435,EU,DE,DE-RP,Kirn,0,,0
+315799,DE-0265,heliport,Autobahn Police Heliport,47.7689,9.8921,2145,EU,DE,DE-BW,Kißlegg,0,,0
+308862,DE-0069,small_airport,Kleinhartpenning Ultralight Site,47.8519,11.6667,2375,EU,DE,DE-BY,Kleinhartpenning,0,,0
+320778,DE-0366,small_airport,UL-Flugplatz Kleinkoschen,51.513056,14.080556,349,EU,DE,DE-BR,Kleinkoschen,0,,0
+315305,DE-0192,small_airport,Lindlar Airfield,50.9952,7.3738,1055,EU,DE,DE-NW,Köln,0,,0
+308750,DE-0066,small_airport,Königsdorf Gliding Center,47.82868,11.465,1971,EU,DE,DE-BY,Königsdorf,0,,0
+321189,DE-0395,small_airport,Sonderlandeplatz Kremmen-Hohenbruch UL,52.797548,13.102406,120,EU,DE,DE-BR,Kremmen,0,,0
+308282,DE-0058,small_airport,Kronach Airfield,50.243644,11.3589,1520,EU,DE,DE-BY,Kronach,0,,0
+321190,DE-0396,small_airport,Kunrau/Jahrstedt UL,52.567785,10.996051,218,EU,DE,DE-ST,Kunrau,0,,0
+316008,DE-0306,small_airport,Hermuthausen Airfield,49.3146,9.7468,1350,EU,DE,DE-BW,Künzelsau,0,,0
+315793,DE-0261,small_airport,Kusel-Langenbach Airfield,49.4779,7.3094,1495,EU,DE,DE-RP,Kusel,0,,0
+309632,DE-0084,small_airport,Geratshof Airfield,47.9925,10.8442,2096,EU,DE,DE-BY,Landsberg am Lech,0,,0
+300111,ETIY,heliport,Landstuhl Regional Medical Center Helipad,49.4025,7.558611111,1136,EU,DE,DE-RP,Landstuhl,0,,0
+315806,DE-0272,small_airport,Eßweiler Airfield,49.5621,7.58,1365,EU,DE,DE-RP,Landstuhl,0,,0
+315181,DE-0189,small_airport,Langenfeld Airfield,51.1409,6.9849,300,EU,DE,DE-NW,Langenfeld,0,,0
+314152,DE-0155,small_airport,Langenselbold Airfield,50.1764,9.0648,390,EU,DE,DE-HE,Langenselbold,0,,0
+327064,DE-0415,small_airport,Agrarflugplatz Laußig,51.5356317,12.6423586,,EU,DE,DE-SN,Laußig,0,,0
+316018,DE-0313,small_airport,Leibertingen Airfield,48.0445,9.0314,2749,EU,DE,DE-BW,Leibertingen,0,,0
+315943,DE-0290,small_airport,UL-Flugplatz Linnich,50.9630556,6.3377778,341,EU,DE,DE-NW,Linnich,0,,0
+320179,DE-0352,closed,Skydive Bad Lippspringe,51.79056,8.786111,,EU,DE,DE-NW,Lippspringe,0,,0
+315945,DE-0292,small_airport,Paradiek Lohne bei Vechta,52.6680556,8.3213889,102,EU,DE,DE-NI,Lohne,0,,0
+315455,DE-0203,small_airport,Lünen-Lippeweiden Airfield,51.6171,7.501,162,EU,DE,DE-NW,Lünen,0,,0
+44591,DE-0022,heliport,Mainz ZDF-Complex Helipad,49.96620178,8.21269989,,EU,DE,DE-RP,Mainz,0,,0
+316022,DE-0317,small_airport,Markdorf Airfield,47.7072,9.391,1388,EU,DE,DE-BW,Markdorf,0,,0
+308863,DE-0070,small_airport,Marpingen Glider Airfield,49.453,7.039,1155,EU,DE,DE-SL,Marpingen,0,,0
+320314,DE-0355,small_airport,Sonderlandeplatz Meißendorf-Brunsiek,52.7122879,9.8729296,,EU,DE,DE-NI,Meißendorf,0,,0
+320746,DE-0361,small_airport,Mellenthin UL,53.9175,14.0325,66,EU,DE,DE-MV,Mellenthin (Usedom),0,,0
+308221,DE-0052,small_airport,Bischofsberg Airfield,50.43247038,10.28706551,1080,EU,DE,DE-BY,Mellrichstadt,0,,0
+315459,DE-0205,small_airport,Menden-Barge Airfield,51.46,7.8376,750,EU,DE,DE-NW,Menden,0,,0
+44595,DE-0026,heliport,Meppen Ludmillenstift Hospital Helipad,52.6894989,7.294400215,,EU,DE,DE-NI,Meppen,0,,0
+316051,DE-0332,small_airport,Roßfeld Airfield,48.5133,9.3332,2634,EU,DE,DE-BW,Metzingen,0,,0
+311008,DE-0111,small_airport,Berliner Heide Airfield,52.6697,10.3705,230,EU,DE,DE-NI,Metzingen,0,,0
+314553,DE-0169,small_airport,Vielbrunn Airfield,49.7193,9.0823,1517,EU,DE,DE-HE,Michelstadt,0,,0
+44462,DE-0010,closed,Straubing Airfield,48.82799911,12.56099987,,EU,DE,DE-BY,Mitterharthausen,0,,0
+316023,DE-0318,small_airport,Möckmühl-Korb Airfield,49.3442,9.401,1148,EU,DE,DE-BW,Möckmühl,0,,0
+320790,DE-0368,small_airport,Flugplatz Mohorn,50.998031,13.446478,1173,EU,DE,DE-SN,Mohorn,0,,0
+315804,DE-0270,small_airport,Grambeker Heide Airfield,53.5834,10.6985,168,EU,DE,DE-SH,Mölln,0,,0
+315471,DE-0210,small_airport,Wanlo Airfield,51.101,6.3936,253,EU,DE,DE-NW,Mönchengladbach,0,,0
+312142,DE-0133,small_airport,Weper Airfield,51.7124,9.8026,1190,EU,DE,DE-NI,Moringen,0,,0
+315944,DE-0291,small_airport,Sonderlandeplatz Morschenich,50.8730556,6.5527778,338,EU,DE,DE-NW,Morschenich,0,,0
+316024,DE-0319,small_airport,Schreckhof Airfield,49.3513,9.1208,898,EU,DE,DE-BW,Mosbach,0,,0
+315989,DE-0302,small_airport,Hangensteiner Hof Airfield,48.9328,8.8155,970,EU,DE,DE-BW,Mühlacker,0,,0
+322973,DE-0005,small_airport,Warngau Airfield,47.825011,11.703733,2380,EU,DE,DE-BY,München,0,,0
+329127,DE-0418,heliport,DRF Luftrettung München Heliport,48.110895,11.465393,,EU,DE,DE-BY,München,0,,0
+315941,DE-0288,small_airport,Segelfluggelände Haiterbach,48.5313889,8.6752778,1975,EU,DE,DE-BW,Nagold,0,,0
+315722,DE-0252,small_airport,Nastätten Airfield,50.198,7.89,1220,EU,DE,DE-RP,Nastätten,0,,0
+321379,DE-0405,small_airport,Naunheim / Maifeld UL,50.2580555,7.3319443,700,EU,DE,DE-RP,Naunheim,0,,0
+326618,DE-0413,small_airport,Obersöllbach UL,49.183234,9.5590496,,EU,DE,DE-BW,Neuenstein,0,,0
+314457,DE-0168,small_airport,Nidda Airfield,50.4053,8.9881,589,EU,DE,DE-HE,Nidda,0,,0
+315852,DE-0278,small_airport,Aventoft Airfield,54.8961,8.8208,-10,EU,DE,DE-SH,Niebüll,0,,0
+321230,DE-0400,small_airport,Flugplatz Niederwillingen,50.7799999,11.0508333,,EU,DE,DE-TH,Niederwillingen,0,,0
+315605,DE-0248,small_airport,Titschendorf Airfield,50.3941,11.5217,2140,EU,DE,DE-TH,Nordhalben,0,,0
+311720,DE-0127,small_airport,Sultmer Berg Airfield,51.73,9.9925,736,EU,DE,DE-NI,Northeim,0,,0
+309908,DE-0092,small_airport,Ottenberg Airfield,49.3287,11.4797,1828,EU,DE,DE-BY,Nuremberg,0,,0
+314554,DE-0170,small_airport,Oberems Airfield,50.242,8.3986,1350,EU,DE,DE-HE,Oberems,0,,0
+321249,DE-0401,small_airport,Oberrot-Glashofen UL,49.0102777,9.6405555,1574,EU,DE,DE-BW,Oberrot,0,,0
+316032,DE-0325,small_airport,Ochsenhausen Airfield,48.0535,9.9189,2135,EU,DE,DE-BW,Ochsenhausen,0,,0
+44703,EDGO,heliport,Oedheim Heliport,49.24100113,9.234999657,,EU,DE,DE-BW,Oedheim,0,,0
+314241,DE-0158,small_airport,Reinheim Airfield,49.84,8.851,506,EU,DE,DE-HE,Offenbach,0,,0
+321359,DE-0403,small_airport,Ohlsbach UL,48.4338888,7.9708332,525,EU,DE,DE-BW,Offenburg,0,,0
+320859,DE-0371,small_airport,Offenbüttel UL,54.1758333,9.3780556,6,EU,DE,DE-SH,Offenbüttel,0,,0
+309025,DE-0075,small_airport,Ohlstadt Airfield,47.65869,11.23507,2197,EU,DE,DE-BY,Ohlstadt,0,,0
+315892,DE-0281,small_airport,Baumerlenbach Airfield,49.231,9.421,800,EU,DE,DE-BW,Öhringen,0,,0
+44594,DE-0025,heliport,Osnabrück Hospital Helipad,52.2779007,8.004799843,,EU,DE,DE-NI,Osnabrück,0,,0
+311666,DE-0124,small_airport,Osterholz-Scharmbeck Airfield,53.2135,8.8102,3,EU,DE,DE-NI,Osterholz-Scharmbeck,0,,0
+311668,DE-0125,small_airport,Peine-Glindbruchkippe Airfield,52.3238,10.1815,235,EU,DE,DE-NI,Peine,0,,0
+311067,DE-0116,small_airport,Peißenberg Airfield,47.8337,11.06685,1967,EU,DE,DE-SN,Peißenberg,0,,0
+315727,Perlebe,small_airport,[Duplicate] Perleberg,53.072222,11.819722,91,EU,DE,DE-BR,Perleberg,0,,0
+316054,DE-0335,small_airport,Schwann-Conweiler Airfield,48.8382,8.5432,1550,EU,DE,DE-BW,Pforzheim,0,,0
+320912,DE-0379,small_airport,UL-Flugplatz Litzlohe,49.3519444,11.4888889,1876,EU,DE,DE-BY,Pilsach auf der Heid,0,,0
+315850,DE-0277,small_airport,Bundenthal-Rumbach Airfield,49.0934,7.7941,995,EU,DE,DE-RP,Pirmasens,0,,0
+316037,DE-0327,small_airport,Pleidelsheim Airfield,48.9564,9.1914,616,EU,DE,DE-BW,Pleidelsheim,0,,0
+321028,DE-0388,small_airport,Flugplatz Plötzin,52.356113,12.824636,164,EU,DE,DE-BR,Plötzin,0,,0
+314404,DE-0161,small_airport,Pohlheim Airfield,50.5322,8.7334,787,EU,DE,DE-HE,Pohlheim,0,,0
+315803,DE-0269,small_airport,Kammermark Airfield,53.1953,12.1642,280,EU,DE,DE-BR,Pritzwalk,0,,0
+311068,DE-0117,small_airport,Quakenbrück Airfield,52.6634,7.9249,78,EU,DE,DE-NI,Quakenbrück,0,,0
+315463,DE-0207,small_airport,Radevormwald-Leye Airfield,51.2164,7.3822,1290,EU,DE,DE-NW,Radevormwald,0,,0
+316045,DE-0328,small_airport,Rastatt Airfield,48.8742,8.2129,370,EU,DE,DE-BW,Rastatt,0,,0
+309906,DE-0090,small_airport,Oberhinkofen Airfield,48.9517,12.1467,1276,EU,DE,DE-BY,Regensburg,0,,0
+316046,DE-0329,small_airport,Reiselfingen Airfield,47.8517,8.3715,2450,EU,DE,DE-BW,Reiselfingen,0,,0
+44593,DE-0024,heliport,Remagen Rolandseck Helipad,50.63209915,7.207699776,,EU,DE,DE-RP,Remagen,0,,0
+316020,DE-0315,small_airport,Malmsheim Airfield,48.7847,8.9175,1488,EU,DE,DE-BW,Renningen,0,,0
+311070,DE-0119,closed,Schnuckenheide-Repke Airfield,52.7163,10.5336,350,EU,DE,DE-NI,Repke,0,,0
+315600,DE-0247,small_airport,Übersberg Airfield,48.4584,9.2977,2570,EU,DE,DE-BW,Reutlingen,0,,0
+315136,DE-0185,small_airport,Sevelen Airfield,51.4857,6.4284,105,EU,DE,DE-NW,Rheinhausen,0,,0
+314405,DE-0162,small_airport,Riedelbach Airfield,50.3024,8.3845,1700,EU,DE,DE-HE,Riedelbach,0,,0
+315946,DE-0293,small_airport,Flugplatz Riedlingen,48.1444444,9.466666,1732,EU,DE,DE-BW,Riedlingen,0,,0
+315568,DE-0230,small_airport,Riesa-Canitz Airfield,51.3024,13.228,410,EU,DE,DE-SN,Riesa,0,,0
+44583,DE-0014,heliport,Rostock University Helipad,54.08330154,12.10050011,,EU,DE,DE-MV,Rostock,0,,0
+314407,DE-0163,small_airport,Rothenberg Airfield,49.4858,8.9368,1575,EU,DE,DE-HE,Rothenberg,0,,0
+315403,DE-0202,small_airport,Eutingen Airfield,48.485556,8.778333,1637,EU,DE,DE-BW,Rottenburg,0,,0
+312689,DE-0142,small_airport,Eibinger Forstwiese Airfield,50.0186,7.89324,1550,EU,DE,DE-HE,Rüdesheim am Rhein,0,,0
+324582,DE-0410,heliport,Rupin Hospital Helipad,52.9039727,12.7963431,,EU,DE,DE-BR,Ruppin,0,,0
+313154,DE-0149,small_airport,Hoherodskopf Airfield,50.5017,9.2227,2215,EU,DE,DE-HE,Rüsselsheim,0,,0
+308272,DE-0057,small_airport,Am Kreuzberg Glider Airfield,50.3088,10.3734,875,EU,DE,DE-BY,Saale,0,,0
+315847,DE-0275,small_airport,Dillingen Airfield,49.3863,6.7493,795,EU,DE,DE-SL,Saarlouis,0,,0
+309996,DE-0096,small_airport,Am Salzgittersee Airfield,52.1702,10.31573,260,EU,DE,DE-NI,Salzgitter,0,,0
+315794,DE-0262,small_airport,Klein Gartz Airfield,52.828,11.316,112,EU,DE,DE-ST,Salzwedel,0,,0
+315179,DE-0187,small_airport,Iserlohn-Rheinermark Airfield,51.4293,7.6436,660,EU,DE,DE-NW,Sauerland,0,,0
+310079,DE-0104,small_airport,Höpen Airfield,53.1473,9.796,275,EU,DE,DE-NI,Schneverdingen,0,,0
+44464,DE-0012,closed,Schönwalde Airfield,52.61700058,13.15699959,,EU,DE,DE-BR,Schönwalde,0,,0
+314409,DE-0164,small_airport,Schotten Airfield,50.5348,9.1455,1678,EU,DE,DE-HE,Schotten,0,,0
+316011,DE-0308,small_airport,Hornberg Airfield,48.7458,9.8615,2240,EU,DE,DE-BW,Schwäbisch Gmünd,0,,0
+314690,DE-0173,small_airport,"Ziegenhain Airfield - ""Der Ring""",50.9026,9.2403,693,EU,DE,DE-HE,Schwalmstadt,0,,0
+44596,DE-0027,heliport,Grafenrheinfeld Nuclear Power Plant Helipad,49.9822998,10.19139957,,EU,DE,DE-BY,Schweinfurt,0,,0
+314871,DE-0182,small_airport,Hengsen-Opherdicke Airfield,51.4729,7.6451,435,EU,DE,DE-NW,Schwerte,0,,0
+314608,ETAS,closed,Sembach Air Base,49.507,7.866,1050,EU,DE,DE-RP,Sembach,0,SEX,0
+315464,DE-0208,small_airport,Siegen-Eisernhardt Airfield,50.8375,8.0141,1300,EU,DE,DE-NW,Siegen,0,,0
+315473,DE-0212,heliport,Evangelisches Jung-Stilling Hospital Helipad,50.8518,8.0184,1110,EU,DE,DE-NW,Siegen,0,,0
+315960,DE-0298,small_airport,Deckenpfronn-Egelsee Airfield,48.6385,8.8175,1900,EU,DE,DE-BW,Sindelfingen,0,,0
+316010,DE-0307,small_airport,Hilzingen Airfield,47.7604,8.7683,1493,EU,DE,DE-BW,Singen,0,,0
+315720,DE-0251,small_airport,Singhofen Airfield,50.2714,7.8548,980,EU,DE,DE-RP,Singhofen,0,,0
+316053,DE-0334,small_airport,Sinsheim Airfield,49.2472,8.8938,525,EU,DE,DE-BW,Sinsheim,0,,0
+312688,DE-0141,small_airport,Dornberg-Sontra Airfield,51.0873,9.9155,1317,EU,DE,DE-HE,Sontra,0,,0
+44461,DE-0009,closed,Sperenberg Air Base,52.13999939,13.30500031,,EU,DE,DE-BR,Sperenberg,0,,0
+309997,DE-0097,closed,Staufenberg Glider Field,51.362,9.6288,1200,EU,DE,DE-NI,Staufenberg,0,,0
+308199,DE-0048,small_airport,Steinberg in Surwold Glider Airfield,52.956445,7.556663,100,EU,DE,DE-NI,Steinberg,0,,0
+314691,DE-0174,small_airport,Borghorst Airfield,52.1505,7.4531,157,EU,DE,DE-NW,Steinfurt,0,,0
+320930,DE-0381,small_airport,Straßham UL,48.1797222,11.9272222,1690,EU,DE,DE-BY,Straßham,0,,0
+44586,DE-0017,heliport,Kelley Barracks Helipad,48.72169876,9.181500435,,EU,DE,DE-BW,Stuttgart,0,,0
+315587,DE-0245,heliport,SRH Hospital Helipad,50.603,10.7104,1759,EU,DE,DE-TH,Suhl,0,,0
+309403,DE-0078,small_airport,Fichtelbrunn Airfield,49.49818,11.6595,1641,EU,DE,DE-BY,Sulzbach-Rosenberg,0,,0
+315466,DE-0209,closed,Sundern-Seidfeld Airfield,51.3032,7.9807,1086,EU,DE,DE-NW,Sundern,0,,0
+315719,DE-0250,small_airport,Tauberbischofsheim Airfield,49.6477,9.6326,940,EU,DE,DE-BW,Tauberbischofsheim,0,,0
+320266,DE-0354,small_airport,Paraglider Ternberg,47.9347398,14.3508537,,EU,DE,DE-U-A,Ternberg,0,,0
+309638,DE-0085,small_airport,Greding Airfield,49.0622,11.2924,1732,EU,DE,DE-BY,Thalmässing-Waizenhofen,0,,0
+316014,DE-0310,small_airport,Hütten Airfield,47.6333,7.9412,2885,EU,DE,DE-BW,The Hotzenwald,0,,0
+308245,DE-0055,small_airport,Tirschenreuth  Airfield,49.8739,12.3281,1600,EU,DE,DE-BY,Tirschenreuth,0,,0
+45224,DE-0030,heliport,Traunstein Hospital Helipad,47.87414103,12.63141274,,EU,DE,DE-BY,Traunstein,0,,0
+308649,DE-0065,small_airport,Tröstau Glider Field,50.018763,11.933259,1870,EU,DE,DE-BY,Tröstau,0,,0
+45228,DE-0034,heliport,Trostberg Hospital Helipad,48.02913326,12.54318953,,EU,DE,DE-BY,Trostberg,0,,0
+316188,DE-0347,small_airport,Flugplatz Möckern-Tryppehna,52.1775,11.9283333,240,EU,DE,DE-ST,Tryppehna,0,,0
+315801,DE-0267,heliport,Tübingen Trauma Hospital Helipad,48.533,9.0356,1489,EU,DE,DE-BW,Tübingen,0,,0
+315802,DE-0268,heliport,Tübingen University Hospital Helipad,48.5297,9.0382,1490,EU,DE,DE-BW,Tübingen,0,,0
+320633,DE-0356,small_airport,Flugplatz Uehrde,52.1008333,10.7380556,415,EU,DE,DE-NI,Uehrde,0,,0
+320891,DE-0375,heliport,Wilhelmsburg-Kaserne Helipad,48.4142,9.9805,1900,EU,DE,DE-BY,Ulm,0,,0
+309909,DE-0093,small_airport,Unterwössen Airfield,47.72974,12.4382,1836,EU,DE,DE-BY,Unterwössen,0,,0
+311778,DE-0131,small_airport,Uslar Airfield,51.6619,9.6044,850,EU,DE,DE-NI,Uslar,0,,0
+315586,DE-0244,small_airport,Vaihingen an der Enz Airfield,48.9362,8.9736,1038,EU,DE,DE-BW,Vaihingen an der Enz,0,,0
+300115,DE-0037,heliport,Vilseck Main Army Heliport,49.64944444,11.80583333,1358,EU,DE,DE-BY,Vilseck,0,,0
+315489,DE-0218,small_airport,Waldeck Airfield,51.2267,9.0554,1329,EU,DE,DE-HE,Waldeck,0,,0
+311723,DE-0129,small_airport,Walsrode Airfield,52.8882,9.6,194,EU,DE,DE-NI,Walsrode,0,,0
+321360,DE-0404,small_airport,Walxheim-Unterschneidheim UL,48.953631,10.323716,1690,EU,DE,DE-BW,Walxheim,0,,0
+315800,DE-0266,small_airport,Kißlegg Airfield,47.756,9.857,2102,EU,DE,DE-BW,Wangen im Allgäu,0,,0
+315472,DE-0211,small_airport,Warburg Airfield,51.4973,9.0876,572,EU,DE,DE-NW,Warburg,0,,0
+315580,DE-0240,small_airport,Weilerswist ULM,50.7191667,6.8497222,446,EU,DE,DE-NW,Weilerswist,0,,0
+311779,DE-0132,small_airport,Wenzendorf Airfield,53.3374,9.7797,229,EU,DE,DE-NI,Wenzendorf,0,,0
+320828,DE-0369,small_airport,Flugplatz Wertheim,49.725862,9.507246,1000,EU,DE,DE-BW,Wertheim,0,,0
+311181,DE-0120,small_airport,Steinberg at Wessein Airfield,52.0838,10.018,642,EU,DE,DE-NI,Wessein,0,,0
+315723,DE-0253,small_airport,Montabaur Airfield,50.424,7.83,930,EU,DE,DE-RP,Westerwald,0,,0
+312694,DE-0143,small_airport,Garbenheimer Wiesen Airfield,50.574,8.529,490,EU,DE,DE-HE,Wetzlar,0,,0
+314153,DE-0156,small_airport,Laufenselden Airfield,50.2217,7.9985,1316,EU,DE,DE-HE,Wiesbaden,0,,0
+308196,DE-0046,small_airport,Wildberg Glider Airfield,48.637325,8.733327,1670,EU,DE,DE-BW,Wildberg,0,,0
+308197,DE-0047,small_airport,Wächtersberg-Hub Glider Airfield,48.614931,8.755457,1965,EU,DE,DE-BW,Wildberg,0,,0
+308187,DE-0043,small_airport,Wilsche Glider Field,52.524677,10.462597,191,EU,DE,DE-NI,Wilsche,0,,0
+308192,DE-0045,closed,Kleve-Wisseler Dünen Airfield,51.769461,6.299106,50,EU,DE,DE-NW,Wissel,0,,0
+45184,DE-0028,closed,Wittstock Air Base,53.201,12.524,,EU,DE,DE-BR,Wittstock,0,,0
+308191,DE-0044,small_airport,Witzenhausen-Burgberg Airport,51.349735,9.824789,659,EU,DE,DE-HE,Witzenhausen,0,,0
+310000,DE-0099,small_airport,Große Wiese Airfield,52.13704,10.5695,253,EU,DE,DE-NI,Wolfenbüttel,0,,0
+311669,DE-0126,small_airport,Stüde Bernsteinsee Airfield,52.5638,10.6853,245,EU,DE,DE-NI,Wolfsburg,0,,0
+312143,DE-0134,small_airport,FSV Illtal Airfield,49.41,7.0547,1230,EU,DE,DE-SL,Wustweiler,0,,0
+308158,DE-0041,small_airport,Zellhausen Gliderport,50.018845,8.984376,370,EU,DE,DE-HE,Zellhausen,0,,0
+311547,DE-0121,small_airport,Bohlenbergerfeld Airfield,53.418,7.9039,26,EU,DE,DE-NI,Zetel,0,,0
+308157,DE-0040,small_airport,Zierenberg Airfield,51.367,9.336,1450,EU,DE,DE-HE,Zierenberg,0,,0
